@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I didn’t go to the hospital right away?",
+  "description": "While hospital care is not essential to your claim, it is important to seek timely medical attention after an injury. Delays or gaps in treatment can raise ques",
+  "url": "https://www.HeatonLegal.com/faq/what-if-i-didn-t-go-to-the-hospital-right-away",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I didn’t go to the hospital right away?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While hospital care is not essential to your claim, it is important to seek timely medical attention after an injury. Delays or gaps in treatment can raise questions about causation and cause an adjuster to not take your claim seriously. Seeking medical care as soon as symptoms appear is important for both your health and your case."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

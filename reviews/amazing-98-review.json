@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Amazing"
+  },
+  "reviewBody": "These guys are amazing. I was in a car accident and had no idea what to do. I was referred to Aaron from a friend and I am so glad he did. Aaron Heaton is a lifesaver. He is responsive and helpful guiding me through the settlement process. He kept me in the loop with calls and texts. The insurer tried to lowball us, but Aaron kept fighting. In the end I got a great settlement. I really couldn't be happier about my experience with Heaton and Associates.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2022-10-08",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

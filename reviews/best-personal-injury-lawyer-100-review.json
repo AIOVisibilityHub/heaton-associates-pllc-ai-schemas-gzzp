@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Best Personal Injury Lawyer!!"
+  },
+  "reviewBody": "Working with Aaron Heaton and Associates gave me peace of mind. Whenever there was an issue I called Aaron and it was handled immediately. I recommend Aaron Heaton and Associates for any and ALL personal injury needs!!",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2020-08-27",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

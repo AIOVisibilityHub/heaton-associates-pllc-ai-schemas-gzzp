@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Client"
+  },
+  "reviewBody": "Heaton & Associates are truly loyal and dedicated to their customers. I am so glad my cousin introduced me to them after having my accident in February this year. I would highly recommend them, you will never regret it.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Client"
+  },
+  "reviewBody": "Thankful for Aaron and the team for taking such great care of me. Aaron and Ailene were both so great and professional, they made me feel so good and confident about my case. I love how they are always updating you every step of the way, it shows they really care about you. 10/10 recommend.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

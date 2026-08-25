@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Client"
+  },
+  "reviewBody": "Helped us perfectly and did everything they could, I very much recommended them!",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

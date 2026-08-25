@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Client"
+  },
+  "reviewBody": "Mr. Heaton is probably one of the best lawyers in the city. He really made me feel safe with him representing me. He went over and above in my case! I would highly recommend him if you need representation.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

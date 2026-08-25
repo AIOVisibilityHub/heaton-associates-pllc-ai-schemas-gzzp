@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "The Definition of Professionalism"
+  },
+  "reviewBody": "Heaton and Associates is the definition of customer service and professionalism. Every legal need I have approached Aaron with in his realm of expertise he has went above and beyond to help me resolve it.\n\nI can truly say I am glad I met Aaron. It is so nice to have a honest hard working person on your side.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

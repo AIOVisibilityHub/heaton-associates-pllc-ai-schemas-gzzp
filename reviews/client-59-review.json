@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Client"
+  },
+  "reviewBody": "Amazing law firm! They are by your side the whole way and make sure you are taken care of. The amount we received blew our minds and really helped us. I can’t thank Aaron and laney enough!! You won’t go wrong choosing them to help you!",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

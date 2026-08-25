@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Attorney",
+  "name": "Jared Herling",
+  "jobTitle": "Team Member",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "description": "With over a decade of legal experience, Jared is dedicated to advocating for personal injury victims throughout Nevada. As a skilled litigator, he has successfully represented clients in a wide range of cases, including motor vehicle accidents, premises liability, and medical malpractice. Jared prides himself on delivering personalized attention to each case, guiding clients through the complex legal process with compassion and diligence. His commitment to securing maximum compensation for his clients is at the core of his practice, and he handles each case with the urgency it deserves.\n\nBefore joining Heaton & Associates, PLLC, Jared gained invaluable insight into the tactics of insurance companies and defense counsel through his work in insurance defense and medical malpractice defense at several local firms. This experience has given him a unique perspective and an edge in negotiating and litigating on behalf of injured individuals. He has successfully managed cases from inception to trial, ensuring that his clients’ rights are fully protected every step of the way.\n\nRecognized by Super Lawyers as a Mountain States Rising Star from 2020 to 2024, Jared is proud to be a trusted advocate in the Las Vegas legal community. His firm is dedicated to helping injury victims navigate their recovery, fight for justice, and secure the compensation they deserve. If you or a loved one has been injured, Jared is here to provide the legal support you need to move forward.",
+  "telephone": "(702) 850-5000",
+  "knowsAbout": [
+    "Personal Injury Law",
+    "Motor Vehicle Accidents",
+    "Premises Liability",
+    "Medical Malpractice",
+    "Insurance Defense",
+    "Litigation",
+    "Trial Practice",
+    "Advocating for Personal Injury Victims",
+    "Serious Injury Cases",
+    "Maximum Compensation",
+    "Vehicle Collision Cases",
+    "Cars",
+    "Trucks",
+    "Motorcycles",
+    "Unsafe Conditions",
+    "Slip and Falls",
+    "Inadequate Security",
+    "Property-Related Injuries",
+    "Surgical Errors",
+    "Misdiagnosis",
+    "Healthcare-Related Injuries",
+    "Insurance Defense Background",
+    "Medical Malpractice Defense",
+    "Insider Knowledge of Insurance Companies",
+    "Defense Counsel Strategy",
+    "Negotiating",
+    "Litigating on Behalf of Injured Individuals",
+    "Skilled Litigator",
+    "Cases from Inception Through Trial",
+    "Clients' Rights Protection",
+    "Super Lawyers Mountain States Rising Star 2020-2024",
+    "Motor Vehicle Collisions",
+    "Dog Attack",
+    "Fall Injuries",
+    "Dental Malpractice",
+    "Assault and Battery",
+    "Civil Sexual Assault",
+    "Defamation",
+    "Food Poisoning",
+    "Elevator / Escalator Injuries",
+    "Boating Accidents",
+    "Excessive or Negligent Security"
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "License #13350"
+    }
+  ],
+  "areaServed": {
+    "@type": "City",
+    "name": "Las Vegas"
+  }
+}

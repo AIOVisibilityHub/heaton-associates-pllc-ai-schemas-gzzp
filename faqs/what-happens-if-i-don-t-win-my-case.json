@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if I don't win my case?",
+  "description": "In most circumstances, you do not owe us anything if there is no recovery.",
+  "url": "https://www.HeatonLegal.com/faq/what-happens-if-i-don-t-win-my-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if I don't win my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In most circumstances, you do not owe us anything if there is no recovery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

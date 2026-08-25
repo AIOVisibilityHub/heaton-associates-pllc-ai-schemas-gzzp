@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is my case worth?",
+  "description": "Case value depends on many factors, including liability, injury severity, medical expenses, lost income, future care needs, and how the injury affects daily lif",
+  "url": "https://www.HeatonLegal.com/faq/how-much-is-my-case-worth",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is my case worth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Case value depends on many factors, including liability, injury severity, medical expenses, lost income, future care needs, and how the injury affects daily life. While we can discuss how these considerations may influence your case, you should be wary of any attorney who promises a specific outcome at the outset of a claim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Top 100 Lawyers in Las Vegas 2017 Nomination",
+  "provider": {
+    "@type": "Organization",
+    "name": "MyVegas Magazine"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "award": "Top 100 Lawyers in Las Vegas 2017 Nomination"
+}

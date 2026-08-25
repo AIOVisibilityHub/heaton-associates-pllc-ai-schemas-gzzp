@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "2017 selection to receive the Top 10 under 40 Attorney Award",
+  "provider": {
+    "@type": "Organization",
+    "name": "National Academy of Personal Injury Lawyers, Inc."
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "award": "2017 selection to receive the Top 10 under 40 Attorney Award"
+}

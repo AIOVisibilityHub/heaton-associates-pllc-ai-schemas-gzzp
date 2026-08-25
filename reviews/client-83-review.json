@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Client"
+  },
+  "reviewBody": "Heaton & Associates are very reliable lawyers. I dealt with Aaron Heaton directly with my car accident. He guided me with my case personally. He would answer every phone call and emails every time I have a question and/or concerns. He responded on the same day that I would contact him. We had a problem with the mechanic I personally picked and Aaron took care of the issues himself and communicated with the shop directly to smooth out the problem. They have a great staff, always accommodating and professional. I would like to thank Aaron for all the hard work and would highly recommend Heaton and Associates with their case/injury.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2023-05-10",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "What Chess Can Teach Us About Claims Negotiation",
+  "author": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "articleBody": "I play quite a bit of chess. With the app on my phone, it's a great way to unwind and connect with people all over the world. The problem is that I'm not always in the best state of mind when I log on. Frustration and anger can get in the way of strategy. \n\nI've found that, in both chess and negotiation, anger is the fastest way to lose. When I play chess angry, I am guaranteed to make mistakes. It's not an emotional game. It's about reading the board and predicting action and reaction.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Las Vegas"
+    }
+  ],
+  "datePublished": "2026-08-25",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

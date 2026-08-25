@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I talk to a lawyer before speaking with an insurance company?",
+  "description": "Yes. Insurance adjusters are trained to minimize payouts and cast doubt on legitimate claims. Early statements can be used to undermine your claim. Speaking wit",
+  "url": "https://www.HeatonLegal.com/faq/should-i-talk-to-a-lawyer-before-speaking-with-an-insurance-company",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I talk to a lawyer before speaking with an insurance company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Insurance adjusters are trained to minimize payouts and cast doubt on legitimate claims. Early statements can be used to undermine your claim. Speaking with us first helps protect your rights and ensures your communications are handled strategically."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

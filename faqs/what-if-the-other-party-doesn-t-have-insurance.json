@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the other party doesn’t have insurance?",
+  "description": "In situations where the other car is uninsured, there may still be coverage through the owner or driver of the car, or even through their familial relationships",
+  "url": "https://www.HeatonLegal.com/faq/what-if-the-other-party-doesn-t-have-insurance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the other party doesn’t have insurance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In situations where the other car is uninsured, there may still be coverage through the owner or driver of the car, or even through their familial relationships. It is critical to thoroughly investigate every potential payment source. If no such coverage exists, you may still have options such as uninsured motorist or medical payment coverages on your own policy. We can identify available sources of recovery, which is generally a precursor to mapping out the course of your claim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

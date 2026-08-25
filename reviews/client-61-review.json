@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Client"
+  },
+  "reviewBody": "Jared came highly recommended to me and he proved everything I was told. He helped me through a very stressful situation, provided me with excellent legal advice above and beyond, and made himself available to me at all times everything you would want in a lawyer. I would not hesitate to recommend him to anyone who needs a top-notch lawyer and a good human!",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

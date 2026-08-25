@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Client"
+  },
+  "reviewBody": "Aaron was absolutely amazing to work with. From start to finish, he was quick to respond, kept me up to date every step of the way, and made a difficult situation so much easier to manage. His professionalism and dedication truly set him apart, and I always felt confident knowing my case was in the best hands. I pray I never need a personal injury attorney again, but if I do, Aaron will be my first call without hesitation. I can’t recommend him and his firm highly enough!",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

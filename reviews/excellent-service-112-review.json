@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Excellent Service"
+  },
+  "reviewBody": "Aaron handled my case after an auto accident. He was very easy to work with, personable, explained terms and the process and kept me up to date. He was also very accessible to me if I had questions or concerns. I would highly recommend Heaton and Associates.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2015-10-21",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

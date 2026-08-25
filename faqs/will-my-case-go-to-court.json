@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will my case go to court?",
+  "description": "Most personal injury cases resolve through out-of-court settlement. However, cases should be prepared as if they will go to trial, which strengthens negotiating",
+  "url": "https://www.HeatonLegal.com/faq/will-my-case-go-to-court",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will my case go to court?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most personal injury cases resolve through out-of-court settlement. However, cases should be prepared as if they will go to trial, which strengthens negotiating leverage and preserves options if settlement discussions break down."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

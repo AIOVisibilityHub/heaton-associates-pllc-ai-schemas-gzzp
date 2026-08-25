@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to hire a personal injury lawyer?",
+  "description": "Nearly all of our personal injury cases are handled on a contingency fee basis, meaning we are paid only if there is a recovery, typically as a percentage of th",
+  "url": "https://www.HeatonLegal.com/faq/how-much-does-it-cost-to-hire-a-personal-injury-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to hire a personal injury lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nearly all of our personal injury cases are handled on a contingency fee basis, meaning we are paid only if there is a recovery, typically as a percentage of the settlement or verdict. This policy benefits you as there are no fees up front, and there is only a fee if we win your case."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

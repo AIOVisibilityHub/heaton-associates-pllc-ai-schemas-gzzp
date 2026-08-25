@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Lawyers of Distinction 2019 Nomination",
+  "provider": {
+    "@type": "Organization",
+    "name": "Lawyers of Distinction"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "award": "Lawyers of Distinction 2019 Nomination"
+}

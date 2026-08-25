@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What makes your office different?",
+  "description": "For more than a decade, we have earned our reputation quietly — built almost entirely through referrals from other attorneys, as well as clients who experienced",
+  "url": "https://www.HeatonLegal.com/faq/what-makes-your-office-different",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What makes your office different?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For more than a decade, we have earned our reputation quietly — built almost entirely through referrals from other attorneys, as well as clients who experienced our dedication firsthand. Maintaining a conservative case load is intentional, fostering complete control and allowing our partners to directly impact every case. That commitment to result over revenue has led to us becoming a trusted resource in Nevada personal injury."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

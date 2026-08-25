@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "2019 selection to Top 40 Under 40 Litigation Lawyers in Nevada",
+  "provider": {
+    "@type": "Organization",
+    "name": "American Society of Legal Advocates"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "award": "2019 selection to Top 40 Under 40 Litigation Lawyers in Nevada"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Client"
+  },
+  "reviewBody": "Mr. Aaron Heaton is the best lawyers in the city. He really made us feel safe, especially after the car accident I was lost and confused about everything until we met lawyer Aaron Heaton. I was pregnant at that time and my two kids were got injured too. My husband’s friend gave us his number and we contacted him. He was very kind full and met our needs immediately without any hesitation. He answered all of our questions and the service was excellent and very professional and knowledgeable. I had lots of appointments with different doctors. When ever I don’t have time to make the appointments, Mr. Aaron contact the doctors office directly and make appointments for us. He never missed to follow up with us. He is the best lawyer and I recommend Mr. Aaron Heaton and associates to all my friends and family members. Thank you so much for your service.🙏",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

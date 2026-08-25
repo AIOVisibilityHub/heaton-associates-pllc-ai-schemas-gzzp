@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How involved will my attorney be in my case?",
+  "description": "Attorney involvement is what sets Heaton & Associates apart from the typical \"churn and burn\" personal injury machine. Clients should expect not only meaningful",
+  "url": "https://www.HeatonLegal.com/faq/how-involved-will-my-attorney-be-in-my-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How involved will my attorney be in my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Attorney involvement is what sets Heaton & Associates apart from the typical \"churn and burn\" personal injury machine. Clients should expect not only meaningful attorney involvement, but also frequent communication so you understand case strategies and objectives at all times."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

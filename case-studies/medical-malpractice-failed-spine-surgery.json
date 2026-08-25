@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Medical Malpractice (Failed Spine Surgery)",
+  "articleBody": "A patient underwent invasive spine surgery requiring hardware to be permanently implanted to stabilize the spine. The surgeon negligently placed the hardware resulting in ongoing symptoms and a subsequent revision surgery.\n\nOutcome: $1,000,000 Litigation Settlement",
+  "author": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "genre": "Case Study"
+}

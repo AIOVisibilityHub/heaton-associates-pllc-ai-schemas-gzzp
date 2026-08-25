@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Long-Term Rehab Facility Negligence",
+  "articleBody": "Nurses at a long-term rehabilitation facility negligently mixed up a patient's feeding and breathing tubes, resulting in the nutrition formula being pumped into the patient's lungs.\n\nOutcome: $500,000 Litigation Settlement",
+  "author": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "genre": "Case Study"
+}

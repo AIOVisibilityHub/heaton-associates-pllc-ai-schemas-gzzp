@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Client"
+  },
+  "reviewBody": "They definitely get more than 5 stars. By far the best law office. My car accident was extremely stressful and scary!! Aaron made my experience as good as I could be, based off of the circumstances. Great communication every step of the way. Aaron cared about making sure I was taken care of and settled quickly. I wouldn't recommend going anywhere else.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2021-07-15",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

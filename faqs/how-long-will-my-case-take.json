@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long will my case take?",
+  "description": "Some cases resolve in a matter of months, while others take significantly longer. The timeline depends on the duration of your medical care, insurance coverages",
+  "url": "https://www.HeatonLegal.com/faq/how-long-will-my-case-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long will my case take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Some cases resolve in a matter of months, while others take significantly longer. The timeline depends on the duration of your medical care, insurance coverages, case complexities, the insurance company involved, and whether litigation becomes necessary."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

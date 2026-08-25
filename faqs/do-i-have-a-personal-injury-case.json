@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have a personal injury case?",
+  "description": "You may have a personal injury case if you were harmed due to someone else’s negligence, carelessness, or intentional conduct. Determining whether a valid claim",
+  "url": "https://www.HeatonLegal.com/faq/do-i-have-a-personal-injury-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have a personal injury case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You may have a personal injury case if you were harmed due to someone else’s negligence, carelessness, or intentional conduct. Determining whether a valid claim exists depends on factors such as fault, causation, damages, and applicable legal deadlines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I post about my case on social media?",
+  "description": "Posting about your case or injuries is generally discouraged. Social media content can be taken out of context and used to challenge your credibility or the ser",
+  "url": "https://www.HeatonLegal.com/faq/can-i-post-about-my-case-on-social-media",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I post about my case on social media?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Posting about your case or injuries is generally discouraged. Social media content can be taken out of context and used to challenge your credibility or the seriousness of your injuries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

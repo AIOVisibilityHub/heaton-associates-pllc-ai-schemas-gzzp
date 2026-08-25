@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Physical Therapy Negligence",
+  "articleBody": "A vulnerable patient began post-operative physical therapy. The clinic staff started her on accelerated exercises with inadequate supervision, causing her to fall and suffer multiple fractures.\n\nOutcome: $315,000 Litigation Settlement",
+  "author": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "genre": "Case Study"
+}

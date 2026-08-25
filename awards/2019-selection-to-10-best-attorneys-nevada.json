@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "2019 selection to 10 Best Attorneys - Nevada",
+  "provider": {
+    "@type": "Organization",
+    "name": "American Institute of Personal Injury Attorneys"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "award": "2019 selection to 10 Best Attorneys - Nevada"
+}

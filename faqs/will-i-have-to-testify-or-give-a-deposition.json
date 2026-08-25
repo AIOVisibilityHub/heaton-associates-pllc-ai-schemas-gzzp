@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will I have to testify or give a deposition?",
+  "description": "Most cases do not advance to the stage where a deposition or trial testimony is needed. Still, they may occur in some cases. If necessary, we will prepare you t",
+  "url": "https://www.HeatonLegal.com/faq/will-i-have-to-testify-or-give-a-deposition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will I have to testify or give a deposition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most cases do not advance to the stage where a deposition or trial testimony is needed. Still, they may occur in some cases. If necessary, we will prepare you thoroughly, ensure you know what to expect, and guide you through the process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

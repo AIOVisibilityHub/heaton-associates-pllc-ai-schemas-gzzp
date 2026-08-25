@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Client"
+  },
+  "reviewBody": "Went to the Heaton law firm and was greeted by friendly staff. Mr. Heaton was very professional, kind and helpful in explaining my options in my case. I was very pleased with my experience at Heaton and Associates. Finally, the law practice was conveniently located in the city and not downtown like other lawyers' offices.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2022-06-04",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

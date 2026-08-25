@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I’m contacted by the other party’s lawyer or insurance company?",
+  "description": "Once we represent you, all communication should be routed through our office. You should not speak directly with opposing parties unless specifically instructed",
+  "url": "https://www.HeatonLegal.com/faq/what-if-i-m-contacted-by-the-other-party-s-lawyer-or-insurance-company",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I’m contacted by the other party’s lawyer or insurance company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Once we represent you, all communication should be routed through our office. You should not speak directly with opposing parties unless specifically instructed to do so by your attorney."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

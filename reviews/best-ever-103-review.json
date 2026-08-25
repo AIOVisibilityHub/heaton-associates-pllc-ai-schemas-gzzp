@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Best Ever"
+  },
+  "reviewBody": "Aaron was recommended to me by a friend. As soon as we met Aaron was on the job. Not everything handled in a very timely manner and I am very satisfied and I would recommend Heaton Associates to everyone",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2020-02-07",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Head-On Motor Vehicle Collision",
+  "articleBody": "Teenage client was hit head-on by a negligent driver. Client's symptoms resisted numerous attempts to address her symptoms conservatively with physical therapy, chiropractic care, and pain management. The client ultimately required fusion neck surgery.\n\nOutcome: $1,000,000 Out-Of-Court Settlement",
+  "author": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "genre": "Case Study"
+}

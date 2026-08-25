@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I can't afford medical care?",
+  "description": "For those who don't have or simply choose not to use health insurance, we can facilitate arrangements with medical providers who will agree to treat under a lie",
+  "url": "https://www.HeatonLegal.com/faq/what-if-i-can-t-afford-medical-care",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I can't afford medical care?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For those who don't have or simply choose not to use health insurance, we can facilitate arrangements with medical providers who will agree to treat under a lien. This means that the doctor will defer payment while your claim is pending. After the claim is resolved, we will negotiate reductions of your balances to leave you with as much of the settlement money as possible."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

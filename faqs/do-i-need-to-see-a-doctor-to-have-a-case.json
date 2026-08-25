@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to see a doctor to have a case?",
+  "description": "In most cases, yes. Medical treatment creates a physical record that links your injuries to the incident and establishes the extent of harm. Without medical rec",
+  "url": "https://www.HeatonLegal.com/faq/do-i-need-to-see-a-doctor-to-have-a-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to see a doctor to have a case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In most cases, yes. Medical treatment creates a physical record that links your injuries to the incident and establishes the extent of harm. Without medical records, it is difficult to prove damages and there is little leverage to negotiate an appropriate value for your claim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

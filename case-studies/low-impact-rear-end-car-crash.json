@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Low-Impact Rear-End Car Crash",
+  "articleBody": "The client's vehicle was stopped when it was rear-ended. While there was little to no visible damage to the cars, the client suffered a severe neck injury requiring multi-level cervical fusion surgery.\n\nOutcome: $700,000 Out-Of-Court Settlement",
+  "author": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "genre": "Case Study"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Client"
+  },
+  "reviewBody": "Heaton and Associates did an effective job handling my case. From the very beginning to the end, attorney Heaton was accessible, attentive, and made sure I received the care that I needed. They were strong advocates for me as attorneys should be. I would certainly recommend them to anyone in need of a personal injury law firm.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

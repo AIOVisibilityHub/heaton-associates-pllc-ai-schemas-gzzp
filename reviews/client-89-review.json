@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Client"
+  },
+  "reviewBody": "My family and I can't thank Heaton & Associates enough for their professionalism and determination to make sure that we got what we deserved on our case. Aaron was great on gathering all the facts and proceeding forward to fight for winning results. I would definitely recommend him for any of your legal needs!!! Thanks again!",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2020-09-03",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

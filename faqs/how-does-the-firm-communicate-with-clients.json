@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does the firm communicate with clients?",
+  "description": "We tailor our services to the convenience of our clients. Let us know whether you prefer postal service, text, call, email, or app-based messaging, and we will",
+  "url": "https://www.HeatonLegal.com/faq/how-does-the-firm-communicate-with-clients",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does the firm communicate with clients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We tailor our services to the convenience of our clients. Let us know whether you prefer postal service, text, call, email, or app-based messaging, and we will communicate in whatever fashion is practical for you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

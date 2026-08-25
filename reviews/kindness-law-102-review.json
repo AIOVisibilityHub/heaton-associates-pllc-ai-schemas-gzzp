@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Kindness & Law!"
+  },
+  "reviewBody": "I was treated with respect, kindness and most importantly as a Mother in a tough situation after my car accident occurred when dealing with Heaton & Associates! Thank you for your hard work and true customer service!! You have all my support!",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2020-06-05",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

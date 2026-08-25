@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Medical Malpractice (Prescription Malpractice)",
+  "articleBody": "The defendant physician negligently stopped anti-depressant medication cold turkey despite evidence that doing so can lead to suicidal ideations. The patient subsequently committed suicide.\n\nOutcome: $1,000,000 Litigation Settlement",
+  "author": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "genre": "Case Study"
+}

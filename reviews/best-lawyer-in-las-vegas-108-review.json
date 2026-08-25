@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Best Lawyer In Las Vegas"
+  },
+  "reviewBody": "Hi everyone, I hope you will take my advise and hire Aaron Heaton as your lawyer. You will not be disappointed. I know you had other lawyers that said they would help you from start to finish, but you never had even spoke to them but one time during the whole process. Aaron will keep you inform, he is like a friend. He really cares about his clients, and he is a man of honor. Take my advise you will be satisfied this time, and not feel let down..",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2017-05-20",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

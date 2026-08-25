@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Client"
+  },
+  "reviewBody": "I've used this law firm for three cases now, two that are resolved and one that's still in progress. I also referred my mom to this law firm when we both needed representation on the second issue. Mr. Heaton has worked aggressively to pursue a favorable settlement while also wanting to see the best health outcome for us as his clients. His behavior demonstrated to me that he truly wanted what was best for me as far as my health, rather than focusing just on potential profit for his firm. When he demonstrated this to me with a specific behavior, this really increased my respect for him and my belief that he is ethical and focused on the client. As I told him, he's kind of like a good dentist- not someone you want to see, because it usually means something bad has happened in your life, but if you have to see one, it's helpful to see one who you know is good.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

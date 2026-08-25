@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Dog Attack",
+  "articleBody": "A dog was off-leash at a park and began to chase after a woman on a bicycle. In an effort to escape the dog, the woman pedaled faster than she was comfortable doing and eventually crashed. The crash resulted in wrist and patellar fractures.\n\nOutcome: $300,000 Pre-Trial Settlement",
+  "author": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  },
+  "genre": "Case Study"
+}

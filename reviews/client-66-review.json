@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Client"
+  },
+  "reviewBody": "I highly recommend Aaron Heaton & Associates. He was exceptionally polite, understanding, and comprehensive throughout my case. When my insurance company was making the process difficult, Aaron and his team handled my situation with great patience and passion, providing excellent communication and keeping me informed every step of the way. Thanks to his firm, I am now stress-free, and I can't recommend them enough.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}

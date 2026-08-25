@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I can’t afford a lawyer?",
+  "description": "Because contingency fees eliminate upfront costs, financial circumstances would not prevent you from hiring us. Case-related expenses are also advanced by the f",
+  "url": "https://www.HeatonLegal.com/faq/what-if-i-can-t-afford-a-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I can’t afford a lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because contingency fees eliminate upfront costs, financial circumstances would not prevent you from hiring us. Case-related expenses are also advanced by the firm, requiring no cost to you until after a successful resolution of your case."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

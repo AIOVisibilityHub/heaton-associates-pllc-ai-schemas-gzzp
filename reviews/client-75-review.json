@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Client"
+  },
+  "reviewBody": "After a rough year--my car was rear-ended by an RTC bus and I also had a slip-and-fall injury at a store--I was overwhelmed and unsure where to turn. I reached out to a couple of lawyers, and one even turned me down because they didn't want to deal with RTC. Thankfully, I found Aaron.\n\nFrom the initial consultation, I knew I was in good hands. Aaron was straightforward, honest, and didn't come across like one of those flashy TV lawyers. He took the time to explain everything clearly and made me feel respected and heard.\n\nThroughout the process, I received regular updates and check-ins--huge shoutout to Ailene for her professionalism and responsiveness, which I truly appreciated.\n\nAaron exceeded my expectations and did an outstanding job handling both of my cases. If you're looking for a reliable, trustworthy injury attorney, look no further. This law firm is the real deal!",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2025-05-15",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Heaton & Associates, PLLC",
+    "url": "https://www.HeatonLegal.com"
+  }
+}
