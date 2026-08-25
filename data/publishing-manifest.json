@@ -1,0 +1,1916 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-25T19:54:19.606Z",
+  "client": {
+    "name": "Heaton & Associates, PLLC",
+    "canonicalUrl": "https://heatonlegal.aiovisibility.net",
+    "primaryWebsiteUrl": "https://www.HeatonLegal.com",
+    "pagesUrl": "https://heatonlegal.aiovisibility.net",
+    "phone": "(702) 850-5000",
+    "email": "Info@HeatonLegal.com",
+    "locations": [
+      {
+        "name": "Primary Location",
+        "address": "5785 Centennial Ctr. Blvd., Ste. 240",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89149",
+        "phone": "(702) 850-5000",
+        "email": "Info@HeatonLegal.com"
+      }
+    ],
+    "services": [
+      "truck accident lawyer",
+      "semi-truck collision attorney",
+      "18-wheeler accident lawyer Las Vegas",
+      "rear-end collision lawyer",
+      "whiplash injury lawyer",
+      "side-swipe accident lawyer",
+      "parking lot accident lawyer",
+      "rollover accident lawyer",
+      "SUV rollover crash attorney",
+      "truck rollover injury lawyer",
+      "pedestrian accident lawyer",
+      "hit by car while walking attorney",
+      "pedestrian injury lawyer Las Vegas",
+      "hit-and-run accident attorney",
+      "uninsured motorist claim lawyer",
+      "motorcycle accident lawyer",
+      "bike crash attorney Las Vegas",
+      "motorcycle injury lawyer",
+      "Drunk Driving attorney",
+      "DUI attorney las vegas",
+      "DWI lawyer las vegas",
+      "drunk driving accident lawyer",
+      "DUI accident attorney",
+      "injured by drunk driver lawyer",
+      "Turo accident lawyer",
+      "company car accident lawyer",
+      "work vehicle collision attorney",
+      "commercial vehicle accident lawyer",
+      "pile-up accident lawyer",
+      "Uber accident lawyer las vegas",
+      "rideshare accident attorney Las Vegas",
+      "Uber passenger injury lawyer",
+      "Lyft accident lawyer ",
+      "Lyft passenger injury attorney",
+      "rideshare collision lawyer",
+      "delivery driver accident lawyer",
+      "DUI accident victim lawyer",
+      "car crash attorney",
+      "birth injury lawyer",
+      "medical malpractice during childbirth attorney",
+      "obstetrician negligence lawyer Las Vegas",
+      "wrong medication attorney",
+      "prescription mistake malpractice lawyer",
+      "failure to diagnose lawyer",
+      "misdiagnosis malpractice attorney",
+      "cancer misdiagnosis lawyer Las Vegas",
+      "Long Term Care Neglect",
+      "nursing home neglect lawyer",
+      "elder abuse attorney Las Vegas",
+      "assisted living negligence lawyer",
+      "surgical error lawyer",
+      "MRI CT scan misread attorney",
+      "imaging mistake malpractice lawyer",
+      "dog bite lawyer",
+      "animal attack attorney Las Vegas",
+      "emotional distress lawyer",
+      "PTSD injury attorney",
+      "slip and fall lawyer",
+      "trip and fall attorney Las Vegas",
+      "nerve damage lawyer",
+      "permanent nerve injury attorney",
+      "catastrophic injury lawyer",
+      "medical device lawyer",
+      "failed implant attorney",
+      "dental malpractice lawyer",
+      "dentist negligence lawyer",
+      "assault victim lawyer",
+      "battery injury attorney",
+      "bar fight injury lawyer",
+      "assault at bar attorney",
+      "Rape victim attorney",
+      "sexual assault victim lawyer",
+      "rape survivor civil attorney",
+      "sexual abuse compensation lawyer",
+      "sexual misconduct lawyer",
+      "indecent exposure victim attorney",
+      "sexual battery civil lawyer",
+      "sexual harassment lawyer",
+      "workplace sexual harassment attorney",
+      "employment discrimination lawyer Las Vegas",
+      "Employment Harassment lawyer",
+      "hostile work environment attorney",
+      "employment discrimination lawyer",
+      "coercive control lawyer",
+      "domestic violence civil attorney",
+      "relationship abuse compensation lawyer",
+      "food poisoning lawyer",
+      "food allergy reaction lawyer",
+      "restaurant allergy negligence attorney",
+      "anaphylaxis injury lawyer",
+      "elevator accident lawyer",
+      "escalator injury attorney",
+      "premises liability lawyer Las Vegas",
+      "elevator entrapment lawyer",
+      "malfunctioning elevator injury attorney",
+      "Component Malfunction",
+      "product liability lawyer",
+      "defective product injury attorney",
+      "equipment malfunction lawyer",
+      "fall from height lawyer",
+      "construction fall injury attorney",
+      "ladder fall accident lawyer",
+      "bus accident lawyer",
+      "public transportation injury attorney",
+      "train accident lawyer Las Vegas",
+      "collision injury lawyer",
+      "accident injury attorney",
+      "personal injury lawyer Las Vegas",
+      "boat accident lawyer",
+      "maritime injury attorney",
+      "jet ski accident lawyer Las Vegas",
+      "nightclub injury lawyer",
+      "club accident attorney Las Vegas",
+      "injured at nightclub lawyer",
+      "bar injury lawyer",
+      "slip and fall at bar attorney",
+      "dram shop lawyer Las Vegas",
+      "bouncer assault lawyer",
+      "bar security injury lawyer Las Vegas",
+      "casino injury lawyer",
+      "slip and fall at casino attorney",
+      "premises liability casino Las Vegas",
+      "casino accident lawyer"
+    ],
+    "cities": [
+      "Las Vegas",
+      "Henderson",
+      "North Las Vegas",
+      "Boulder City",
+      "Mesquite",
+      "Overton",
+      "Logandale",
+      "Pahrump",
+      "Indian Springs",
+      "Beatty",
+      "Goldfield",
+      "Tonopah",
+      "Laughlin",
+      "Searchlight",
+      "Jean",
+      "Primm",
+      "Paradise",
+      "Spring Valley",
+      "Enterprise",
+      "Summerlin",
+      "Sunrise Manor",
+      "Winchester",
+      "Clark County",
+      "Nye County"
+    ]
+  },
+  "package": {
+    "totalFiles": 337,
+    "totalBytes": 1404878,
+    "stats": {
+      "faqs": 23,
+      "helpArticles": 4,
+      "services": 124,
+      "webpages": 0,
+      "personnel": 4,
+      "products": 0,
+      "locations": 1,
+      "awards": 25,
+      "caseStudies": 16,
+      "organization": 1,
+      "press": 0,
+      "reviews": 115,
+      "qna": 0,
+      "research": 0,
+      "total": 314
+    }
+  },
+  "entrypoints": {
+    "aiData": "ai-data.html",
+    "index": "index.html",
+    "llms": "llms.txt",
+    "aiSitemap": "ai-sitemap.xml",
+    "sitemap": "sitemap.xml",
+    "manifest": "data/publishing-manifest.json",
+    "canonicalManifest": "data/publishing-manifest.json",
+    "readme": "README.md"
+  },
+  "categories": {
+    "faqs": [
+      {
+        "path": "faqs/do-i-have-a-personal-injury-case.json",
+        "bytes": 856,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-hire-a-personal-injury-lawyer.json",
+        "bytes": 950,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-can-t-afford-a-lawyer.json",
+        "bytes": 839,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-talk-to-a-lawyer-before-speaking-with-an-insurance-company.json",
+        "bytes": 959,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-do-i-have-to-file-a-personal-injury-claim.json",
+        "bytes": 1065,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-wait-too-long-to-contact-a-lawyer.json",
+        "bytes": 1055,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-to-see-a-doctor-to-have-a-case.json",
+        "bytes": 900,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-didn-t-go-to-the-hospital-right-away.json",
+        "bytes": 979,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-continue-treatment-while-my-case-is-pending.json",
+        "bytes": 847,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-the-accident-was-partly-my-fault.json",
+        "bytes": 915,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-the-other-party-doesn-t-have-insurance.json",
+        "bytes": 1129,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-my-case-go-to-court.json",
+        "bytes": 804,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-is-my-case-worth.json",
+        "bytes": 904,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-will-my-case-take.json",
+        "bytes": 835,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-i-have-to-testify-or-give-a-deposition.json",
+        "bytes": 869,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-m-contacted-by-the-other-party-s-lawyer-or-insurance-company.json",
+        "bytes": 908,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-post-about-my-case-on-social-media.json",
+        "bytes": 809,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-if-i-don-t-win-my-case.json",
+        "bytes": 596,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-involved-will-my-attorney-be-in-my-case.json",
+        "bytes": 913,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-the-firm-communicate-with-clients.json",
+        "bytes": 841,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-can-t-afford-medical-care.json",
+        "bytes": 983,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-will-pay-to-repair-my-car.json",
+        "bytes": 958,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-makes-your-office-different.json",
+        "bytes": 1034,
+        "purpose": "schema"
+      }
+    ],
+    "services": [
+      {
+        "path": "services/personal-injury-service.json",
+        "bytes": 865,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/truck-accident-lawyer-service.json",
+        "bytes": 1591,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/semi-truck-collision-attorney-service.json",
+        "bytes": 1624,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/18-wheeler-accident-lawyer-las-vegas-service.json",
+        "bytes": 1615,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/rear-end-collision-lawyer-service.json",
+        "bytes": 1603,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/whiplash-injury-lawyer-service.json",
+        "bytes": 1603,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/side-swipe-accident-lawyer-service.json",
+        "bytes": 1583,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/parking-lot-accident-lawyer-service.json",
+        "bytes": 1607,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/rollover-accident-lawyer-service.json",
+        "bytes": 1613,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/suv-rollover-crash-attorney-service.json",
+        "bytes": 1586,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/truck-rollover-injury-lawyer-service.json",
+        "bytes": 1610,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pedestrian-accident-lawyer-service.json",
+        "bytes": 1617,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/hit-by-car-while-walking-attorney-service.json",
+        "bytes": 1602,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pedestrian-injury-lawyer-las-vegas-service.json",
+        "bytes": 1632,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/hit-and-run-accident-attorney-service.json",
+        "bytes": 1626,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/uninsured-motorist-claim-lawyer-service.json",
+        "bytes": 1596,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/motorcycle-accident-lawyer-service.json",
+        "bytes": 1606,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bike-crash-attorney-las-vegas-service.json",
+        "bytes": 1624,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/motorcycle-injury-lawyer-service.json",
+        "bytes": 1579,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/drunk-driving-attorney-service.json",
+        "bytes": 1594,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/dui-attorney-las-vegas-service.json",
+        "bytes": 1603,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/dwi-lawyer-las-vegas-service.json",
+        "bytes": 1565,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/drunk-driving-accident-lawyer-service.json",
+        "bytes": 1613,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/dui-accident-attorney-service.json",
+        "bytes": 1604,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/injured-by-drunk-driver-lawyer-service.json",
+        "bytes": 1595,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/turo-accident-lawyer-service.json",
+        "bytes": 1586,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/company-car-accident-lawyer-service.json",
+        "bytes": 1620,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/work-vehicle-collision-attorney-service.json",
+        "bytes": 1596,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/commercial-vehicle-accident-lawyer-service.json",
+        "bytes": 1632,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pile-up-accident-lawyer-service.json",
+        "bytes": 1608,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/uber-accident-lawyer-las-vegas-service.json",
+        "bytes": 1593,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/rideshare-accident-attorney-las-vegas-service.json",
+        "bytes": 1639,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/uber-passenger-injury-lawyer-service.json",
+        "bytes": 1621,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/lyft-accident-lawyer-service.json",
+        "bytes": 1567,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/lyft-passenger-injury-attorney-service.json",
+        "bytes": 1618,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/rideshare-collision-lawyer-service.json",
+        "bytes": 1615,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/delivery-driver-accident-lawyer-service.json",
+        "bytes": 1598,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/dui-accident-victim-lawyer-service.json",
+        "bytes": 1604,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/car-crash-attorney-service.json",
+        "bytes": 1595,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/birth-injury-lawyer-service.json",
+        "bytes": 1562,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/medical-malpractice-during-childbirth-attorney-service.json",
+        "bytes": 1664,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/obstetrician-negligence-lawyer-las-vegas-service.json",
+        "bytes": 1659,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/wrong-medication-attorney-service.json",
+        "bytes": 1578,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/prescription-mistake-malpractice-lawyer-service.json",
+        "bytes": 1647,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/failure-to-diagnose-lawyer-service.json",
+        "bytes": 1617,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/misdiagnosis-malpractice-attorney-service.json",
+        "bytes": 1602,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cancer-misdiagnosis-lawyer-las-vegas-service.json",
+        "bytes": 1636,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/long-term-care-neglect-service.json",
+        "bytes": 1603,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/nursing-home-neglect-lawyer-service.json",
+        "bytes": 1588,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/elder-abuse-attorney-las-vegas-service.json",
+        "bytes": 1618,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/assisted-living-negligence-lawyer-service.json",
+        "bytes": 1636,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/surgical-error-lawyer-service.json",
+        "bytes": 1568,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/mri-ct-scan-misread-attorney-service.json",
+        "bytes": 1610,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/imaging-mistake-malpractice-lawyer-service.json",
+        "bytes": 1643,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/dog-bite-lawyer-service.json",
+        "bytes": 1550,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/animal-attack-attorney-las-vegas-service.json",
+        "bytes": 1622,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/emotional-distress-lawyer-service.json",
+        "bytes": 1614,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ptsd-injury-attorney-service.json",
+        "bytes": 1563,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/slip-and-fall-lawyer-service.json",
+        "bytes": 1590,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/trip-and-fall-attorney-las-vegas-service.json",
+        "bytes": 1635,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/nerve-damage-lawyer-service.json",
+        "bytes": 1560,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/permanent-nerve-injury-attorney-service.json",
+        "bytes": 1621,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/catastrophic-injury-lawyer-service.json",
+        "bytes": 1615,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/medical-device-lawyer-service.json",
+        "bytes": 1570,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/failed-implant-attorney-service.json",
+        "bytes": 1597,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/dental-malpractice-lawyer-service.json",
+        "bytes": 1612,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/dentist-negligence-lawyer-service.json",
+        "bytes": 1580,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/assault-victim-lawyer-service.json",
+        "bytes": 1589,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/battery-injury-attorney-service.json",
+        "bytes": 1610,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bar-fight-injury-lawyer-service.json",
+        "bytes": 1574,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/assault-at-bar-attorney-service.json",
+        "bytes": 1595,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/rape-victim-attorney-service.json",
+        "bytes": 1599,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sexual-assault-victim-lawyer-service.json",
+        "bytes": 1587,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/rape-survivor-civil-attorney-service.json",
+        "bytes": 1614,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sexual-abuse-compensation-lawyer-service.json",
+        "bytes": 1635,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sexual-misconduct-lawyer-service.json",
+        "bytes": 1575,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/indecent-exposure-victim-attorney-service.json",
+        "bytes": 1627,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sexual-battery-civil-lawyer-service.json",
+        "bytes": 1618,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sexual-harassment-lawyer-service.json",
+        "bytes": 1579,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/workplace-sexual-harassment-attorney-service.json",
+        "bytes": 1636,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/employment-discrimination-lawyer-las-vegas-service.json",
+        "bytes": 1663,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/employment-harassment-lawyer-service.json",
+        "bytes": 1589,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/hostile-work-environment-attorney-service.json",
+        "bytes": 1625,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/employment-discrimination-lawyer-service.json",
+        "bytes": 1637,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/coercive-control-lawyer-service.json",
+        "bytes": 1574,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/domestic-violence-civil-attorney-service.json",
+        "bytes": 1622,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/relationship-abuse-compensation-lawyer-service.json",
+        "bytes": 1653,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/food-poisoning-lawyer-service.json",
+        "bytes": 1566,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/food-allergy-reaction-lawyer-service.json",
+        "bytes": 1614,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/restaurant-allergy-negligence-attorney-service.json",
+        "bytes": 1653,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/anaphylaxis-injury-lawyer-service.json",
+        "bytes": 1578,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/elevator-accident-lawyer-service.json",
+        "bytes": 1600,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/escalator-injury-attorney-service.json",
+        "bytes": 1612,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/premises-liability-lawyer-las-vegas-service.json",
+        "bytes": 1612,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/elevator-entrapment-lawyer-service.json",
+        "bytes": 1606,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/malfunctioning-elevator-injury-attorney-service.json",
+        "bytes": 1654,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/component-malfunction-service.json",
+        "bytes": 1568,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/product-liability-lawyer-service.json",
+        "bytes": 1598,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/defective-product-injury-attorney-service.json",
+        "bytes": 1640,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/equipment-malfunction-lawyer-service.json",
+        "bytes": 1589,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fall-from-height-lawyer-service.json",
+        "bytes": 1595,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/construction-fall-injury-attorney-service.json",
+        "bytes": 1638,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ladder-fall-accident-lawyer-service.json",
+        "bytes": 1584,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bus-accident-lawyer-service.json",
+        "bytes": 1587,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/public-transportation-injury-attorney-service.json",
+        "bytes": 1650,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/train-accident-lawyer-las-vegas-service.json",
+        "bytes": 1596,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/collision-injury-lawyer-service.json",
+        "bytes": 1597,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/accident-injury-attorney-service.json",
+        "bytes": 1609,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/personal-injury-lawyer-las-vegas-service.json",
+        "bytes": 1603,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/boat-accident-lawyer-service.json",
+        "bytes": 1588,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/maritime-injury-attorney-service.json",
+        "bytes": 1609,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/jet-ski-accident-lawyer-las-vegas-service.json",
+        "bytes": 1604,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/nightclub-injury-lawyer-service.json",
+        "bytes": 1595,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/club-accident-attorney-las-vegas-service.json",
+        "bytes": 1637,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/injured-at-nightclub-lawyer-service.json",
+        "bytes": 1586,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bar-injury-lawyer-service.json",
+        "bytes": 1577,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/slip-and-fall-at-bar-attorney-service.json",
+        "bytes": 1626,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/dram-shop-lawyer-las-vegas-service.json",
+        "bytes": 1581,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bouncer-assault-lawyer-service.json",
+        "bytes": 1596,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bar-security-injury-lawyer-las-vegas-service.json",
+        "bytes": 1647,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/casino-injury-lawyer-service.json",
+        "bytes": 1563,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/slip-and-fall-at-casino-attorney-service.json",
+        "bytes": 1624,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/premises-liability-casino-las-vegas-service.json",
+        "bytes": 1642,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/casino-accident-lawyer-service.json",
+        "bytes": 1573,
+        "purpose": "schema"
+      }
+    ],
+    "lawyers": [
+      {
+        "path": "lawyers/aaron-heaton-profile.json",
+        "bytes": 2264,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/aaron-heaton-las-vegas.json",
+        "bytes": 2177,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/jared-herling-profile.json",
+        "bytes": 2998,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/jared-herling-las-vegas.json",
+        "bytes": 2911,
+        "purpose": "schema"
+      }
+    ],
+    "help": [
+      {
+        "path": "help/full-coverage-do-you-really-know-what-it-means-and-is-it-enough.json",
+        "bytes": 1978,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-chess-can-teach-us-about-claims-negotiation.json",
+        "bytes": 993,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/false-confidence-hidden-policy-exclusions-can-leave-you-out-in-the-cold.json",
+        "bytes": 1862,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/predatory-claims-practices.json",
+        "bytes": 1840,
+        "purpose": "schema"
+      }
+    ],
+    "locations": [
+      {
+        "path": "locations/primary-location.json",
+        "bytes": 339,
+        "purpose": "schema"
+      }
+    ],
+    "awards": [
+      {
+        "path": "awards/2015-selection-as-one-of-top-40-under-40-lawyers.json",
+        "bytes": 350,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/super-lawyers-2015-nomination.json",
+        "bytes": 299,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/2016-selection-as-one-of-top-40-under-40-lawyers.json",
+        "bytes": 350,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/super-lawyers-2016-nomination.json",
+        "bytes": 299,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/2017-selection-to-receive-the-top-10-under-40-attorney-award.json",
+        "bytes": 397,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/top-100-lawyers-in-las-vegas-2017-nomination.json",
+        "bytes": 332,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/2017-selection-as-one-of-top-40-under-40.json",
+        "bytes": 334,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/2017-clients-choice-award.json",
+        "bytes": 284,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/2018-selection-to-top-40-under-40-litigation-lawyers-in-nevada.json",
+        "bytes": 391,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/2018-selection-to-receive-top-10-under-40-attorney-award.json",
+        "bytes": 395,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/2018-selection-as-one-of-top-40-under-40.json",
+        "bytes": 334,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/2018-selection-to-10-best-attorneys-nevada.json",
+        "bytes": 363,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/2019-selection-to-top-40-under-40-litigation-lawyers-in-nevada.json",
+        "bytes": 387,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/2019-selection-as-one-of-top-40-under-40.json",
+        "bytes": 334,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/lawyers-of-distinction-2019-nomination.json",
+        "bytes": 326,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/2019-selection-to-10-best-attorneys-nevada.json",
+        "bytes": 363,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/2020-selection-to-top-40-under-40-plaintiff-trial-lawyer-nevada.json",
+        "bytes": 384,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/2020-selection-as-one-of-top-40-under-40.json",
+        "bytes": 334,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/2020-legal-elite-nomination.json",
+        "bytes": 293,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/2020-membership-selection.json",
+        "bytes": 300,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/2020-selection-to-receive-top-10-under-40-attorney-award.json",
+        "bytes": 391,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/2020-rising-star-selection.json",
+        "bytes": 293,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/2021-nominee-to-legal-elite.json",
+        "bytes": 298,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/selected-for-top-ranking-attorney-for-nevada-list.json",
+        "bytes": 351,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/top-personal-injury-attorney-in-centennial-hills-for-2025.json",
+        "bytes": 384,
+        "purpose": "schema"
+      }
+    ],
+    "case-studies": [
+      {
+        "path": "case-studies/sexual-assault.json",
+        "bytes": 363,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/lower-body-amputation.json",
+        "bytes": 532,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/app-based-delivery-service-t-bone-collision.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/medical-malpractice-prescription-malpractice.json",
+        "bytes": 596,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/head-on-motor-vehicle-collision.json",
+        "bytes": 646,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/medical-malpractice-failed-spine-surgery.json",
+        "bytes": 625,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/low-impact-rear-end-car-crash.json",
+        "bytes": 591,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/summerlin-rear-end-car-crash.json",
+        "bytes": 700,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/long-term-rehab-facility-negligence.json",
+        "bytes": 575,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/hoa-negligence.json",
+        "bytes": 593,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/wrongful-death.json",
+        "bytes": 488,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/medical-office-negligence.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/apartment-complex-negligence.json",
+        "bytes": 581,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/dog-attack.json",
+        "bytes": 608,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/negligent-golf-course-maintenance.json",
+        "bytes": 601,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/physical-therapy-negligence.json",
+        "bytes": 579,
+        "purpose": "schema"
+      }
+    ],
+    "organization": [
+      {
+        "path": "organization/heaton-associates-pllc-organization.json",
+        "bytes": 2609,
+        "purpose": "schema"
+      }
+    ],
+    "reviews": [
+      {
+        "path": "reviews/the-definition-of-professionalism-1-review.json",
+        "bytes": 624,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/seriously-injured-in-a-car-accident-2-review.json",
+        "bytes": 884,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-3-review.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-4-review.json",
+        "bytes": 863,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-5-review.json",
+        "bytes": 726,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-6-review.json",
+        "bytes": 540,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-7-review.json",
+        "bytes": 450,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-8-review.json",
+        "bytes": 1155,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-9-review.json",
+        "bytes": 437,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-10-review.json",
+        "bytes": 505,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-11-review.json",
+        "bytes": 446,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-12-review.json",
+        "bytes": 674,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-13-review.json",
+        "bytes": 502,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-14-review.json",
+        "bytes": 343,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-15-review.json",
+        "bytes": 334,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-16-review.json",
+        "bytes": 580,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-17-review.json",
+        "bytes": 1030,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-18-review.json",
+        "bytes": 504,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-19-review.json",
+        "bytes": 480,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-20-review.json",
+        "bytes": 491,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-21-review.json",
+        "bytes": 548,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-22-review.json",
+        "bytes": 402,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-23-review.json",
+        "bytes": 574,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-24-review.json",
+        "bytes": 391,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-25-review.json",
+        "bytes": 404,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-26-review.json",
+        "bytes": 458,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-27-review.json",
+        "bytes": 336,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-28-review.json",
+        "bytes": 1151,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-29-review.json",
+        "bytes": 461,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-30-review.json",
+        "bytes": 694,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-31-review.json",
+        "bytes": 458,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-32-review.json",
+        "bytes": 614,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-33-review.json",
+        "bytes": 796,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-34-review.json",
+        "bytes": 999,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-35-review.json",
+        "bytes": 2495,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-36-review.json",
+        "bytes": 514,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-37-review.json",
+        "bytes": 413,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-38-review.json",
+        "bytes": 489,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-39-review.json",
+        "bytes": 520,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-40-review.json",
+        "bytes": 712,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-41-review.json",
+        "bytes": 378,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-42-review.json",
+        "bytes": 2488,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-43-review.json",
+        "bytes": 650,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-44-review.json",
+        "bytes": 945,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-45-review.json",
+        "bytes": 422,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-46-review.json",
+        "bytes": 351,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-47-review.json",
+        "bytes": 387,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-48-review.json",
+        "bytes": 972,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-49-review.json",
+        "bytes": 1872,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-50-review.json",
+        "bytes": 1083,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-51-review.json",
+        "bytes": 1073,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-52-review.json",
+        "bytes": 424,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-53-review.json",
+        "bytes": 2058,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-54-review.json",
+        "bytes": 545,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-55-review.json",
+        "bytes": 474,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-56-review.json",
+        "bytes": 1340,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-57-review.json",
+        "bytes": 680,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-58-review.json",
+        "bytes": 477,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-59-review.json",
+        "bytes": 525,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-60-review.json",
+        "bytes": 366,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-61-review.json",
+        "bytes": 645,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-62-review.json",
+        "bytes": 370,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-63-review.json",
+        "bytes": 305,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-64-review.json",
+        "bytes": 764,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-65-review.json",
+        "bytes": 577,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-66-review.json",
+        "bytes": 704,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-67-review.json",
+        "bytes": 404,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-68-review.json",
+        "bytes": 425,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-69-review.json",
+        "bytes": 304,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-70-review.json",
+        "bytes": 567,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-71-review.json",
+        "bytes": 844,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-72-review.json",
+        "bytes": 619,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-73-review.json",
+        "bytes": 344,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-74-review.json",
+        "bytes": 488,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-75-review.json",
+        "bytes": 1206,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-76-review.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-77-review.json",
+        "bytes": 1840,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-78-review.json",
+        "bytes": 960,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-79-review.json",
+        "bytes": 771,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-80-review.json",
+        "bytes": 408,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-81-review.json",
+        "bytes": 701,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-82-review.json",
+        "bytes": 633,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-83-review.json",
+        "bytes": 952,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-84-review.json",
+        "bytes": 748,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-85-review.json",
+        "bytes": 840,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-86-review.json",
+        "bytes": 484,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-87-review.json",
+        "bytes": 625,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-88-review.json",
+        "bytes": 902,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-89-review.json",
+        "bytes": 642,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-90-review.json",
+        "bytes": 669,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-91-review.json",
+        "bytes": 638,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-92-review.json",
+        "bytes": 717,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-93-review.json",
+        "bytes": 462,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-94-review.json",
+        "bytes": 577,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-95-review.json",
+        "bytes": 1341,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-96-review.json",
+        "bytes": 529,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-97-review.json",
+        "bytes": 1343,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/amazing-98-review.json",
+        "bytes": 772,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/great-experience-99-review.json",
+        "bytes": 475,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/best-personal-injury-lawyer-100-review.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-101-review.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/kindness-law-102-review.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/best-ever-103-review.json",
+        "bytes": 521,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/thank-you-aaron-104-review.json",
+        "bytes": 425,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/a-consummate-professional-105-review.json",
+        "bytes": 749,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/mr-get-it-done-106-review.json",
+        "bytes": 796,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/excellence-at-its-finest-107-review.json",
+        "bytes": 3390,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/best-lawyer-in-las-vegas-108-review.json",
+        "bytes": 783,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/does-not-give-up-109-review.json",
+        "bytes": 975,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/best-personl-injury-lawyer-110-review.json",
+        "bytes": 796,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/my-mind-was-put-at-ease-while-i-recovered-he-took-care-of-the-rest-111-review.json",
+        "bytes": 800,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/excellent-service-112-review.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-113-review.json",
+        "bytes": 837,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/very-professional-114-review.json",
+        "bytes": 484,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/client-115-review.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/aggregate-rating.json",
+        "bytes": 222,
+        "purpose": "schema"
+      }
+    ],
+    "public": [
+      {
+        "path": "index.html",
+        "bytes": 21171,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "about.html",
+        "bytes": 58639,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "services.html",
+        "bytes": 365304,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "reviews.html",
+        "bytes": 173167,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "contact.html",
+        "bytes": 15945,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "faqs.html",
+        "bytes": 55931,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles.html",
+        "bytes": 28031,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "case-studies.html",
+        "bytes": 36778,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "team-members.html",
+        "bytes": 29464,
+        "purpose": "LLM-optimized public page"
+      }
+    ],
+    "root": [
+      {
+        "path": "robots.txt",
+        "bytes": 315,
+        "purpose": "Robots policy"
+      },
+      {
+        "path": "llms.txt",
+        "bytes": 5224,
+        "purpose": "LLM hint"
+      },
+      {
+        "path": ".nojekyll",
+        "bytes": 0,
+        "purpose": "Disable Jekyll on GitHub Pages"
+      },
+      {
+        "path": "index.html",
+        "bytes": 367,
+        "purpose": "Landing page (redirects to ai-data.html)"
+      },
+      {
+        "path": "manifest.json",
+        "bytes": 229,
+        "purpose": "Web app manifest"
+      },
+      {
+        "path": "related-destinations.json",
+        "bytes": 1422,
+        "purpose": "Cross-Destination Index (Related AI Data Sources)"
+      },
+      {
+        "path": "ai-data.html",
+        "bytes": 120961,
+        "purpose": "Master AI data index"
+      },
+      {
+        "path": "llms-full.txt",
+        "bytes": 36617,
+        "purpose": "Extended LLM context"
+      },
+      {
+        "path": "llms-full.md",
+        "bytes": 36617,
+        "purpose": "Extended LLM context (markdown)"
+      },
+      {
+        "path": "full-context.md",
+        "bytes": 5268,
+        "purpose": "Full markdown context"
+      },
+      {
+        "path": "README.md",
+        "bytes": 36374,
+        "purpose": "Repository README"
+      },
+      {
+        "path": "ai-sitemap.xml",
+        "bytes": 35029,
+        "purpose": "AI sitemap"
+      },
+      {
+        "path": "sitemap.xml",
+        "bytes": 1024,
+        "purpose": "Standard sitemap"
+      }
+    ]
+  },
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/heaton-associates-pllc-ai-schemas-gzzp",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/heaton-associates-pllc-ai-schemas-gzzp"
+    }
+  }
+}
