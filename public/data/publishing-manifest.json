@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-25T19:54:19.606Z",
+  "generatedAt": "2026-08-25T19:54:28.128Z",
   "client": {
     "name": "Heaton & Associates, PLLC",
     "canonicalUrl": "https://heatonlegal.aiovisibility.net",
@@ -173,7 +173,7 @@
   },
   "package": {
     "totalFiles": 337,
-    "totalBytes": 1404878,
+    "totalBytes": 1357542,
     "stats": {
       "faqs": 23,
       "helpArticles": 4,
@@ -1794,47 +1794,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 21171,
+        "bytes": 15600,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 58639,
+        "bytes": 53197,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 365304,
+        "bytes": 359622,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 173167,
+        "bytes": 167914,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 15945,
+        "bytes": 10617,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 55931,
+        "bytes": 50609,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 28031,
+        "bytes": 22751,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 36778,
+        "bytes": 31339,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 29464,
+        "bytes": 24166,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -1846,7 +1846,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 5224,
+        "bytes": 5362,
         "purpose": "LLM hint"
       },
       {
@@ -1866,32 +1866,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1422,
+        "bytes": 1717,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 120961,
+        "bytes": 121255,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 36617,
+        "bytes": 36755,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 36617,
+        "bytes": 36755,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 5268,
+        "bytes": 5406,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 36374,
+        "bytes": 36512,
         "purpose": "Repository README"
       },
       {
@@ -1909,7 +1909,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/heaton-associates-pllc-ai-schemas-gzzp",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/heaton-associates-pllc-ai-schemas-gzzp/",
       "repo": "AIOVisibilityHub/heaton-associates-pllc-ai-schemas-gzzp"
     }
   }

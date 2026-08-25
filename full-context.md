@@ -21,6 +21,7 @@ Heaton & Associates, PLLC publishes a structured AI Data Package designed for hi
 - [canonical] Heaton & Associates, PLLC — canonical website — https://heatonlegal.aiovisibility.net
 - [ai-data-hub] Heaton & Associates, PLLC — AI Data Hub — https://heatonlegal.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/heaton-associates-pllc-ai-schemas-gzzp
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/heaton-associates-pllc-ai-schemas-gzzp/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 

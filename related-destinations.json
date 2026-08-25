@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-25T19:54:19.600Z",
+  "generatedAt": "2026-08-25T19:54:28.125Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -31,12 +31,18 @@
       "platform": "github",
       "label": "GitHub repository",
       "url": "https://github.com/AIOVisibilityHub/heaton-associates-pllc-ai-schemas-gzzp"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "github",
+      "label": "GitHub — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.github.io/heaton-associates-pllc-ai-schemas-gzzp/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/heaton-associates-pllc-ai-schemas-gzzp",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/heaton-associates-pllc-ai-schemas-gzzp/",
       "repo": "AIOVisibilityHub/heaton-associates-pllc-ai-schemas-gzzp"
     }
   }
