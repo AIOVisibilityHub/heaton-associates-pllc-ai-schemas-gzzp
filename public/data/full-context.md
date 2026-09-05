@@ -1,21 +1,21 @@
 # Heaton & Associates, PLLC — Full AI Context
 
 **Canonical URL:** https://heatonlegal.aiovisibility.net
-**Generated:** 2026-08-25
+**Generated:** 2026-09-05
 
 ## Overview
 Heaton & Associates, PLLC publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
 
 ## Package Contents
 - **23** faqs
-- **4** helpArticles
-- **124** services
-- **4** personnel
-- **1** locations
 - **25** awards
-- **16** caseStudies
-- **1** organization
 - **115** reviews
+- **124** services
+- **1** locations
+- **4** personnel
+- **16** caseStudies
+- **4** helpArticles
+- **1** organization
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Heaton & Associates, PLLC — canonical website — https://heatonlegal.aiovisibility.net
@@ -58,7 +58,7 @@ Purpose: transparent source discovery, entity consistency, mirror verification, 
 - Uber accident lawyer las vegas
 - rideshare accident attorney Las Vegas
 - Uber passenger injury lawyer
-- Lyft accident lawyer 
+- Lyft accident lawyer
 - Lyft passenger injury attorney
 - rideshare collision lawyer
 - delivery driver accident lawyer
