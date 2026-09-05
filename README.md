@@ -10,14 +10,14 @@ Canonical AI Data Package for Heaton & Associates, PLLC.
 
 ## Stats
 - 23 faqs
-- 4 helpArticles
-- 124 services
-- 4 personnel
-- 1 locations
 - 25 awards
-- 16 caseStudies
-- 1 organization
 - 115 reviews
+- 124 services
+- 1 locations
+- 4 personnel
+- 16 caseStudies
+- 4 helpArticles
+- 1 organization
 - **314** total
 
 ## Cross-Destination Index — Related AI Data Sources
@@ -210,12 +210,16 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/predatory-claims-practices.json`](./help/predatory-claims-practices.json) — schema
 - [`help/what-chess-can-teach-us-about-claims-negotiation.json`](./help/what-chess-can-teach-us-about-claims-negotiation.json) — schema
 
-### Public Pages (9)
+### Public Pages (13)
 - [`about.html`](./about.html) — LLM-optimized public page
 - [`articles.html`](./articles.html) — LLM-optimized public page
 - [`case-studies.html`](./case-studies.html) — LLM-optimized public page
 - [`contact.html`](./contact.html) — LLM-optimized public page
 - [`faqs.html`](./faqs.html) — LLM-optimized public page
+- [`help/false-confidence-hidden-policy-exclusions-can-leave-you-out-in-the-cold.html`](./help/false-confidence-hidden-policy-exclusions-can-leave-you-out-in-the-cold.html) — LLM-optimized public page
+- [`help/full-coverage-do-you-really-know-what-it-means-and-is-it-enough.html`](./help/full-coverage-do-you-really-know-what-it-means-and-is-it-enough.html) — LLM-optimized public page
+- [`help/predatory-claims-practices.html`](./help/predatory-claims-practices.html) — LLM-optimized public page
+- [`help/what-chess-can-teach-us-about-claims-negotiation.html`](./help/what-chess-can-teach-us-about-claims-negotiation.html) — LLM-optimized public page
 - [`index.html`](./index.html) — LLM-optimized public page
 - [`reviews.html`](./reviews.html) — LLM-optimized public page
 - [`services.html`](./services.html) — LLM-optimized public page

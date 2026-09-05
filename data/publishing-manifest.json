@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-25T19:54:28.128Z",
+  "generatedAt": "2026-09-05T21:51:09.766Z",
   "client": {
     "name": "Heaton & Associates, PLLC",
     "canonicalUrl": "https://heatonlegal.aiovisibility.net",
@@ -10,13 +10,13 @@
     "email": "Info@HeatonLegal.com",
     "locations": [
       {
-        "name": "Primary Location",
-        "address": "5785 Centennial Ctr. Blvd., Ste. 240",
-        "city": "Las Vegas",
-        "state": "NV",
         "zip": "89149",
+        "city": "Las Vegas",
+        "name": "Primary Location",
+        "email": "Info@HeatonLegal.com",
         "phone": "(702) 850-5000",
-        "email": "Info@HeatonLegal.com"
+        "state": "NV",
+        "address": "5785 Centennial Ctr. Blvd., Ste. 240"
       }
     ],
     "services": [
@@ -52,7 +52,7 @@
       "Uber accident lawyer las vegas",
       "rideshare accident attorney Las Vegas",
       "Uber passenger injury lawyer",
-      "Lyft accident lawyer ",
+      "Lyft accident lawyer",
       "Lyft passenger injury attorney",
       "rideshare collision lawyer",
       "delivery driver accident lawyer",
@@ -172,24 +172,24 @@
     ]
   },
   "package": {
-    "totalFiles": 337,
-    "totalBytes": 1357542,
+    "totalFiles": 341,
+    "totalBytes": 1457077,
     "stats": {
+      "qna": 0,
       "faqs": 23,
-      "helpArticles": 4,
+      "press": 0,
+      "total": 314,
+      "awards": 25,
+      "reviews": 115,
+      "products": 0,
+      "research": 0,
       "services": 124,
       "webpages": 0,
-      "personnel": 4,
-      "products": 0,
       "locations": 1,
-      "awards": 25,
+      "personnel": 4,
       "caseStudies": 16,
-      "organization": 1,
-      "press": 0,
-      "reviews": 115,
-      "qna": 0,
-      "research": 0,
-      "total": 314
+      "helpArticles": 4,
+      "organization": 1
     }
   },
   "entrypoints": {
@@ -1794,47 +1794,67 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 15600,
+        "bytes": 19573,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 53197,
+        "bytes": 58656,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 359622,
+        "bytes": 365304,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 167914,
+        "bytes": 173167,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 10617,
+        "bytes": 15945,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 50609,
+        "bytes": 55931,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 22751,
+        "bytes": 17807,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 31339,
+        "bytes": 34567,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 24166,
+        "bytes": 29464,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/full-coverage-do-you-really-know-what-it-means-and-is-it-enough.html",
+        "bytes": 16011,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-chess-can-teach-us-about-claims-negotiation.html",
+        "bytes": 13685,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/false-confidence-hidden-policy-exclusions-can-leave-you-out-in-the-cold.html",
+        "bytes": 15822,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/predatory-claims-practices.html",
+        "bytes": 14929,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -1846,7 +1866,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 5362,
+        "bytes": 5361,
         "purpose": "LLM hint"
       },
       {
@@ -1871,37 +1891,37 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 121255,
+        "bytes": 123021,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 36755,
+        "bytes": 37287,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 36755,
+        "bytes": 37287,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 5406,
+        "bytes": 5405,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 36512,
+        "bytes": 37173,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 35029,
+        "bytes": 35529,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1024,
+        "bytes": 1524,
         "purpose": "Standard sitemap"
       }
     ]
