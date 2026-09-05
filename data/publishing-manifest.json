@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-05T21:51:09.766Z",
+  "generatedAt": "2026-09-05T21:51:20.927Z",
   "client": {
     "name": "Heaton & Associates, PLLC",
     "canonicalUrl": "https://heatonlegal.aiovisibility.net",
@@ -173,7 +173,7 @@
   },
   "package": {
     "totalFiles": 341,
-    "totalBytes": 1457077,
+    "totalBytes": 1382899,
     "stats": {
       "qna": 0,
       "faqs": 23,
@@ -1794,67 +1794,67 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 19573,
+        "bytes": 14002,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 58656,
+        "bytes": 53214,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 365304,
+        "bytes": 359622,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 173167,
+        "bytes": 167914,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 15945,
+        "bytes": 10617,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 55931,
+        "bytes": 50609,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 17807,
+        "bytes": 12527,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 34567,
+        "bytes": 29128,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 29464,
+        "bytes": 24166,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/full-coverage-do-you-really-know-what-it-means-and-is-it-enough.html",
-        "bytes": 16011,
+        "bytes": 9580,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-chess-can-teach-us-about-claims-negotiation.html",
-        "bytes": 13685,
+        "bytes": 7432,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/false-confidence-hidden-policy-exclusions-can-leave-you-out-in-the-cold.html",
-        "bytes": 15822,
+        "bytes": 9387,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/predatory-claims-practices.html",
-        "bytes": 14929,
+        "bytes": 8809,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -1866,7 +1866,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 5361,
+        "bytes": 5325,
         "purpose": "LLM hint"
       },
       {
@@ -1886,32 +1886,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1717,
+        "bytes": 1645,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 123021,
+        "bytes": 122949,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 37287,
+        "bytes": 37251,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 37287,
+        "bytes": 37251,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 5405,
+        "bytes": 5369,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 37173,
+        "bytes": 37137,
         "purpose": "Repository README"
       },
       {
@@ -1929,7 +1929,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/heaton-associates-pllc-ai-schemas-gzzp",
-      "pagesUrl": "https://aiovisibilityhub.github.io/heaton-associates-pllc-ai-schemas-gzzp/",
+      "pagesUrl": "https://heatonlegal.aiovisibility.net/",
       "repo": "AIOVisibilityHub/heaton-associates-pllc-ai-schemas-gzzp"
     }
   }
