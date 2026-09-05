@@ -1,19 +1,19 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Client"
+    "name": "Client",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "Aaron Heaton and his associates did an amazing job taking care of us and our case. We knew exactly what was happening every step of the way. They settled our case fairly and communicated the process clearly for us. We would definitely recommend them to everyone!",
+  "itemReviewed": {
+    "url": "https://www.HeatonLegal.com",
+    "name": "Heaton & Associates, PLLC",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
-  },
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "Heaton & Associates, PLLC",
-    "url": "https://www.HeatonLegal.com"
+    "bestRating": 5,
+    "ratingValue": 5
   }
 }

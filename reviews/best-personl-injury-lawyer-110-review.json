@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Best Personl Injury Lawyer!"
+    "name": "Best Personl Injury Lawyer!",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "Aaron is the best person to hire as your personal injury lawyer. He is very nice and very knowledgeable. He answered all my questions, and that was even before I hired him. He has represented both my husband and I on two different occasions. He did an amazing job both times, and we received maximum settlements. He handled all paperwork and negotiations. Once I hired him, I didn't have to do a single thing. I highly recommend him. You won't be disappointed.",
+  "itemReviewed": {
+    "url": "https://www.HeatonLegal.com",
+    "name": "Heaton & Associates, PLLC",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 5
   },
-  "datePublished": "2017-04-10",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "Heaton & Associates, PLLC",
-    "url": "https://www.HeatonLegal.com"
-  }
+  "datePublished": "2017-04-10"
 }

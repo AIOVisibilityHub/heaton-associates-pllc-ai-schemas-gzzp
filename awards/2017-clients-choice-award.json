@@ -1,15 +1,15 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "2017 Clients' Choice Award",
-  "provider": {
-    "@type": "Organization",
-    "name": "Avvo"
-  },
+  "@type": "CreativeWork",
+  "award": "2017 Clients' Choice Award",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.HeatonLegal.com",
     "name": "Heaton & Associates, PLLC",
-    "url": "https://www.HeatonLegal.com"
+    "@type": "Organization"
   },
-  "award": "2017 Clients' Choice Award"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Avvo",
+    "@type": "Organization"
+  }
 }

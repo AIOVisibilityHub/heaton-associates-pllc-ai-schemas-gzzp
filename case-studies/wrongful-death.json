@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Wrongful Death",
-  "articleBody": "A late-stage terminal patient was involved in a freeway motor vehicle collision, leading to an accelerated death.\n\nOutcome: $250,000 Out-Of-Court Settlement",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.HeatonLegal.com",
     "name": "Heaton & Associates, PLLC",
-    "url": "https://www.HeatonLegal.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Wrongful Death",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.HeatonLegal.com",
     "name": "Heaton & Associates, PLLC",
-    "url": "https://www.HeatonLegal.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "A late-stage terminal patient was involved in a freeway motor vehicle collision, leading to an accelerated death.\n\nOutcome: $250,000 Out-Of-Court Settlement"
 }

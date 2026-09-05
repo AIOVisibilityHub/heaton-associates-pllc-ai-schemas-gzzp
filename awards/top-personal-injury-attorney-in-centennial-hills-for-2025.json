@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Top Personal Injury Attorney in Centennial Hills for 2025",
-  "datePublished": "2026-01-22",
-  "provider": {
-    "@type": "Organization",
-    "name": "Business Rate"
-  },
+  "@type": "CreativeWork",
+  "award": "Top Personal Injury Attorney in Centennial Hills for 2025",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.HeatonLegal.com",
     "name": "Heaton & Associates, PLLC",
-    "url": "https://www.HeatonLegal.com"
+    "@type": "Organization"
   },
-  "award": "Top Personal Injury Attorney in Centennial Hills for 2025"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Business Rate",
+    "@type": "Organization"
+  },
+  "datePublished": "2026-01-22"
 }

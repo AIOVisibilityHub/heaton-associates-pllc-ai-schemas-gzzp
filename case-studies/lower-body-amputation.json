@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Lower Body Amputation",
-  "articleBody": "A pedestrian client's legs were run over by a CAT bulldozer. Several challenging variables were overcome to secure a settlement at a second mediation.\n\nOutcome: $3,750,000 Litigation Settlement",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.HeatonLegal.com",
     "name": "Heaton & Associates, PLLC",
-    "url": "https://www.HeatonLegal.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Lower Body Amputation",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.HeatonLegal.com",
     "name": "Heaton & Associates, PLLC",
-    "url": "https://www.HeatonLegal.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "A pedestrian client's legs were run over by a CAT bulldozer. Several challenging variables were overcome to secure a settlement at a second mediation.\n\nOutcome: $3,750,000 Litigation Settlement"
 }

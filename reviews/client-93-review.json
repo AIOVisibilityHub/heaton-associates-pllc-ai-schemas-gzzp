@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Client"
+    "name": "Client",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "Heaton & Associates did a wonderful job, the they are very knowledge and professional. I would use them again and I highly recommend this law firm.",
+  "itemReviewed": {
+    "url": "https://www.HeatonLegal.com",
+    "name": "Heaton & Associates, PLLC",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 5
   },
-  "datePublished": "2019-01-31",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "Heaton & Associates, PLLC",
-    "url": "https://www.HeatonLegal.com"
-  }
+  "datePublished": "2019-01-31"
 }

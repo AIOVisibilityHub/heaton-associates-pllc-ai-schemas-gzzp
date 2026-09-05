@@ -1,15 +1,15 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "2021 Nominee to Legal Elite",
-  "provider": {
-    "@type": "Organization",
-    "name": "New World Report"
-  },
+  "@type": "CreativeWork",
+  "award": "2021 Nominee to Legal Elite",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.HeatonLegal.com",
     "name": "Heaton & Associates, PLLC",
-    "url": "https://www.HeatonLegal.com"
+    "@type": "Organization"
   },
-  "award": "2021 Nominee to Legal Elite"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "New World Report",
+    "@type": "Organization"
+  }
 }

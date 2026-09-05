@@ -1,14 +1,14 @@
 {
-  "@context": "https://schema.org",
-  "@type": "LocalBusiness",
+  "url": "https://www.HeatonLegal.com",
   "name": "Heaton & Associates, PLLC - Primary Location",
+  "@type": "LocalBusiness",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "5785 Centennial Ctr. Blvd., Ste. 240",
-    "addressLocality": "Las Vegas",
+    "postalCode": "89149",
     "addressRegion": "NV",
-    "postalCode": "89149"
+    "streetAddress": "5785 Centennial Ctr. Blvd., Ste. 240",
+    "addressLocality": "Las Vegas"
   },
-  "telephone": "(702) 850-5000",
-  "url": "https://www.HeatonLegal.com"
+  "@context": "https://schema.org",
+  "telephone": "(702) 850-5000"
 }

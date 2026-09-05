@@ -1,15 +1,15 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "2015 selection as one of Top 40 Under 40 Lawyers",
-  "provider": {
-    "@type": "Organization",
-    "name": "The National Trial Lawyers"
-  },
+  "@type": "CreativeWork",
+  "award": "2015 selection as one of Top 40 Under 40 Lawyers",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.HeatonLegal.com",
     "name": "Heaton & Associates, PLLC",
-    "url": "https://www.HeatonLegal.com"
+    "@type": "Organization"
   },
-  "award": "2015 selection as one of Top 40 Under 40 Lawyers"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "The National Trial Lawyers",
+    "@type": "Organization"
+  }
 }

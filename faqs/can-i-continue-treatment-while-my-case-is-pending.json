@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I continue treatment while my case is pending?",
-  "description": "Yes. In fact, continuing treatment as recommended is often critical. Gaps or early termination of care may be used by insurers to argue that injuries were minor",
   "url": "https://www.HeatonLegal.com/faq/can-i-continue-treatment-while-my-case-is-pending",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I continue treatment while my case is pending?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. In fact, continuing treatment as recommended is often critical. Gaps or early termination of care may be used by insurers to argue that injuries were minor, exaggerated, or have been resolved."
-      }
-    }
-  ],
+  "name": "Can I continue treatment while my case is pending?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I continue treatment while my case is pending?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes. In fact, continuing treatment as recommended is often critical. Gaps or early termination of care may be used by insurers to argue that injuries were minor, exaggerated, or have been resolved.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes. In fact, continuing treatment as recommended is often critical. Gaps or early termination of care may be used by insurers to argue that injuries were minor"
 }

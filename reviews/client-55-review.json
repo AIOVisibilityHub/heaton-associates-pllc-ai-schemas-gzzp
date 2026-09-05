@@ -1,19 +1,19 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Client"
+    "name": "Client",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "This office and Aaron Heaton were amazing. After a little over a year long process it was worth the wait! Will differently be coming back. Better the any other lawyer I have used in Vegas.",
+  "itemReviewed": {
+    "url": "https://www.HeatonLegal.com",
+    "name": "Heaton & Associates, PLLC",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
-  },
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "Heaton & Associates, PLLC",
-    "url": "https://www.HeatonLegal.com"
+    "bestRating": 5,
+    "ratingValue": 5
   }
 }

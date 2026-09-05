@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Sexual Assault",
-  "articleBody": "\n\nOutcome: $10,000,000 Judgment",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://www.HeatonLegal.com",
     "name": "Heaton & Associates, PLLC",
-    "url": "https://www.HeatonLegal.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Sexual Assault",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://www.HeatonLegal.com",
     "name": "Heaton & Associates, PLLC",
-    "url": "https://www.HeatonLegal.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "\n\nOutcome: $10,000,000 Judgment"
 }
