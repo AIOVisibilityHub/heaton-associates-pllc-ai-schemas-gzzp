@@ -1,117 +1,117 @@
 {
-  "@context": "https://schema.org",
-  "@type": "LegalService",
-  "name": "Rape victim attorney Attorney",
-  "description": "Heaton & Associates, PLLC represents clients dealing with Rape victim attorney in Las Vegas, Henderson, North Las Vegas. Our work typically covers case review, gathering evidence, communicating with opposing parties, and pursuing the right resolution for each client.",
-  "serviceType": "Rape victim attorney",
-  "provider": {
-    "@type": "LegalService",
-    "name": "Heaton & Associates, PLLC",
-    "url": "https://www.HeatonLegal.com",
-    "telephone": "(702) 850-5000"
-  },
   "url": "https://www.HeatonLegal.com",
-  "telephone": "(702) 850-5000",
+  "name": "Rape victim attorney Attorney",
+  "@type": "LegalService",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Las Vegas"
   },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "https://www.HeatonLegal.com",
+    "name": "Heaton & Associates, PLLC",
+    "@type": "LegalService",
+    "telephone": "(702) 850-5000"
+  },
+  "telephone": "(702) 850-5000",
   "areaServed": [
     {
-      "@type": "City",
-      "name": "Las Vegas"
+      "name": "Las Vegas",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Henderson"
+      "name": "Henderson",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "North Las Vegas"
+      "name": "North Las Vegas",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Boulder City"
+      "name": "Boulder City",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Mesquite"
+      "name": "Mesquite",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Overton"
+      "name": "Overton",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Logandale"
+      "name": "Logandale",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Pahrump"
+      "name": "Pahrump",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Indian Springs"
+      "name": "Indian Springs",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Beatty"
+      "name": "Beatty",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Goldfield"
+      "name": "Goldfield",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Tonopah"
+      "name": "Tonopah",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Laughlin"
+      "name": "Laughlin",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Searchlight"
+      "name": "Searchlight",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Jean"
+      "name": "Jean",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Primm"
+      "name": "Primm",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Paradise"
+      "name": "Paradise",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Spring Valley"
+      "name": "Spring Valley",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Enterprise"
+      "name": "Enterprise",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Summerlin"
+      "name": "Summerlin",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Sunrise Manor"
+      "name": "Sunrise Manor",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Winchester"
+      "name": "Winchester",
+      "@type": "City"
     },
     {
-      "@type": "AdministrativeArea",
-      "name": "Clark County"
+      "name": "Clark County",
+      "@type": "AdministrativeArea"
     },
     {
-      "@type": "AdministrativeArea",
-      "name": "Nye County"
+      "name": "Nye County",
+      "@type": "AdministrativeArea"
     }
-  ]
+  ],
+  "description": "Heaton & Associates, PLLC represents clients dealing with Rape victim attorney in Las Vegas, Henderson, North Las Vegas. Our work typically covers case review, gathering evidence, communicating with opposing parties, and pursuing the right resolution for each client.",
+  "serviceType": "Rape victim attorney"
 }
