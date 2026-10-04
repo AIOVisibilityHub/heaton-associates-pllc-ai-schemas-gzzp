@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:40:36.139Z",
+  "generatedAt": "2026-10-04T00:40:47.004Z",
   "client": {
     "name": "Heaton & Associates, PLLC",
     "canonicalUrl": "https://heatonlegal.aiovisibility.net",
@@ -173,7 +173,7 @@
   },
   "package": {
     "totalFiles": 339,
-    "totalBytes": 1165478,
+    "totalBytes": 1111654,
     "stats": {
       "qna": 0,
       "faqs": 23,
@@ -1799,52 +1799,52 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 19573,
+        "bytes": 14004,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 59933,
+        "bytes": 54513,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 112419,
+        "bytes": 106837,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 174444,
+        "bytes": 169217,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 17222,
+        "bytes": 11920,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 57208,
+        "bytes": 51906,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 16465,
+        "bytes": 11138,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 35844,
+        "bytes": 30441,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 30741,
+        "bytes": 25479,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 17161,
+        "bytes": 11731,
         "purpose": "LLM-optimized public page"
       }
     ],
