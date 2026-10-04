@@ -1,0 +1,62 @@
+{
+  "publishedCategories": [
+    {
+      "slug": "pricing-and-estimates",
+      "name": "Pricing & Estimates",
+      "description": "How work is quoted, what affects the cost and how estimates are produced.",
+      "keywords": [
+        "cost",
+        "costs",
+        "price",
+        "pricing",
+        "estimate",
+        "quote",
+        "budget",
+        "fee",
+        "fees",
+        "payment",
+        "insurance"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Full Coverage: Do You Really Know What It Means, and Is It Enough?",
+      "anchorSlug": "full-coverage-do-you-really-know-what-it-means-and-is-it-enough",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/full-coverage-do-you-really-know-what-it-means-and-is-it-enough.html"
+    },
+    {
+      "title": "What Chess Can Teach Us About Claims Negotiation",
+      "anchorSlug": "what-chess-can-teach-us-about-claims-negotiation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-chess-can-teach-us-about-claims-negotiation.html"
+    },
+    {
+      "title": "False Confidence: Hidden Policy Exclusions Can Leave You Out In The Cold",
+      "anchorSlug": "false-confidence-hidden-policy-exclusions-can-leave-you-out-in-the-cold",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/false-confidence-hidden-policy-exclusions-can-leave-you-out-in-the-cold.html"
+    },
+    {
+      "title": "Predatory Claims Practices",
+      "anchorSlug": "predatory-claims-practices",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/predatory-claims-practices.html"
+    }
+  ],
+  "migrations": [],
+  "sitemapInclude": [
+    "https://heatonlegal.aiovisibility.net/articles.html",
+    "https://heatonlegal.aiovisibility.net/articles/pricing-and-estimates.html"
+  ],
+  "sitemapRemove": []
+}
