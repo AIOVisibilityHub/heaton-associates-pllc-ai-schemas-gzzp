@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-05T21:51:20.927Z",
+  "generatedAt": "2026-10-04T00:40:36.139Z",
   "client": {
     "name": "Heaton & Associates, PLLC",
     "canonicalUrl": "https://heatonlegal.aiovisibility.net",
@@ -172,8 +172,8 @@
     ]
   },
   "package": {
-    "totalFiles": 341,
-    "totalBytes": 1382899,
+    "totalFiles": 339,
+    "totalBytes": 1165478,
     "stats": {
       "qna": 0,
       "faqs": 23,
@@ -983,6 +983,11 @@
       {
         "path": "help/predatory-claims-practices.json",
         "bytes": 1840,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/publishing-plan.json",
+        "bytes": 1625,
         "purpose": "schema"
       }
     ],
@@ -1794,67 +1799,52 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 14002,
+        "bytes": 19573,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 53214,
+        "bytes": 59933,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 359622,
+        "bytes": 112419,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 167914,
+        "bytes": 174444,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 10617,
+        "bytes": 17222,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 50609,
+        "bytes": 57208,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 12527,
+        "bytes": 16465,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 29128,
+        "bytes": 35844,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 24166,
+        "bytes": 30741,
         "purpose": "LLM-optimized public page"
       },
       {
-        "path": "help/full-coverage-do-you-really-know-what-it-means-and-is-it-enough.html",
-        "bytes": 9580,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/what-chess-can-teach-us-about-claims-negotiation.html",
-        "bytes": 7432,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/false-confidence-hidden-policy-exclusions-can-leave-you-out-in-the-cold.html",
-        "bytes": 9387,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/predatory-claims-practices.html",
-        "bytes": 8809,
+        "path": "articles/pricing-and-estimates.html",
+        "bytes": 17161,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -1891,17 +1881,17 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 122949,
+        "bytes": 121791,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 37251,
+        "bytes": 36902,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 37251,
+        "bytes": 36902,
         "purpose": "Extended LLM context (markdown)"
       },
       {
@@ -1911,17 +1901,17 @@
       },
       {
         "path": "README.md",
-        "bytes": 37137,
+        "bytes": 36660,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 35529,
+        "bytes": 35215,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1524,
+        "bytes": 1122,
         "purpose": "Standard sitemap"
       }
     ]

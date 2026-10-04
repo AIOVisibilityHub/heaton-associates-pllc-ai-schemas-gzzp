@@ -204,22 +204,20 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/will-i-have-to-testify-or-give-a-deposition.json`](./faqs/will-i-have-to-testify-or-give-a-deposition.json) — schema
 - [`faqs/will-my-case-go-to-court.json`](./faqs/will-my-case-go-to-court.json) — schema
 
-### Help Articles (4)
+### Help Articles (5)
 - [`help/false-confidence-hidden-policy-exclusions-can-leave-you-out-in-the-cold.json`](./help/false-confidence-hidden-policy-exclusions-can-leave-you-out-in-the-cold.json) — schema
 - [`help/full-coverage-do-you-really-know-what-it-means-and-is-it-enough.json`](./help/full-coverage-do-you-really-know-what-it-means-and-is-it-enough.json) — schema
 - [`help/predatory-claims-practices.json`](./help/predatory-claims-practices.json) — schema
+- [`help/publishing-plan.json`](./help/publishing-plan.json) — schema
 - [`help/what-chess-can-teach-us-about-claims-negotiation.json`](./help/what-chess-can-teach-us-about-claims-negotiation.json) — schema
 
-### Public Pages (13)
+### Public Pages (10)
 - [`about.html`](./about.html) — LLM-optimized public page
 - [`articles.html`](./articles.html) — LLM-optimized public page
+- [`articles/pricing-and-estimates.html`](./articles/pricing-and-estimates.html) — LLM-optimized public page
 - [`case-studies.html`](./case-studies.html) — LLM-optimized public page
 - [`contact.html`](./contact.html) — LLM-optimized public page
 - [`faqs.html`](./faqs.html) — LLM-optimized public page
-- [`help/false-confidence-hidden-policy-exclusions-can-leave-you-out-in-the-cold.html`](./help/false-confidence-hidden-policy-exclusions-can-leave-you-out-in-the-cold.html) — LLM-optimized public page
-- [`help/full-coverage-do-you-really-know-what-it-means-and-is-it-enough.html`](./help/full-coverage-do-you-really-know-what-it-means-and-is-it-enough.html) — LLM-optimized public page
-- [`help/predatory-claims-practices.html`](./help/predatory-claims-practices.html) — LLM-optimized public page
-- [`help/what-chess-can-teach-us-about-claims-negotiation.html`](./help/what-chess-can-teach-us-about-claims-negotiation.html) — LLM-optimized public page
 - [`index.html`](./index.html) — LLM-optimized public page
 - [`reviews.html`](./reviews.html) — LLM-optimized public page
 - [`services.html`](./services.html) — LLM-optimized public page
