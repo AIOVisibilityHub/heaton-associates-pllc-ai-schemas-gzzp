@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-25T00:46:09.863Z",
+  "generatedAt": "2026-10-25T00:49:01.528Z",
   "client": {
     "name": "Heaton & Associates, PLLC",
     "canonicalUrl": "https://heatonlegal.aiovisibility.net",
@@ -173,7 +173,7 @@
   },
   "package": {
     "totalFiles": 339,
-    "totalBytes": 1162426,
+    "totalBytes": 1174295,
     "stats": {
       "faqs": 23,
       "helpArticles": 4,
@@ -1856,7 +1856,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 8217,
+        "bytes": 9420,
         "purpose": "LLM hint"
       },
       {
@@ -1876,32 +1876,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 7641,
+        "bytes": 10853,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 127839,
+        "bytes": 130481,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 39812,
+        "bytes": 41015,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 39812,
+        "bytes": 41015,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 8261,
+        "bytes": 9464,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 39569,
+        "bytes": 40772,
         "purpose": "Repository README"
       },
       {
@@ -1921,6 +1921,30 @@
       "url": "https://github.com/AIOVisibilityHub/heaton-associates-pllc-ai-schemas-gzzp",
       "pagesUrl": "https://heatonlegal.aiovisibility.net/",
       "repo": "AIOVisibilityHub/heaton-associates-pllc-ai-schemas-gzzp"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/heaton-associates-pllc-ai-schemas-u5mg",
+      "pagesUrl": "https://heaton-associates-pllc-ai-schemas-u5mg-5d0300.gitlab.io/"
+    },
+    "huggingface": {
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/heaton-associates-pllc-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub-heaton-associates-pllc-ai-schemas.static.hf.space/",
+      "repo": "AIOVisibilityHub/heaton-associates-pllc-ai-schemas"
+    },
+    "codeberg": {
+      "url": "https://codeberg.org/aiovisibilityhub/heaton-associates-pllc-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub.codeberg.page/heaton-associates-pllc-ai-schemas/",
+      "repo": "aiovisibilityhub/heaton-associates-pllc-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/heaton-associates-pllc-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/heaton-associates-pllc-ai-schemas/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/heaton-associates-pllc-ai-schemas/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/23630075"
     }
   }
 }

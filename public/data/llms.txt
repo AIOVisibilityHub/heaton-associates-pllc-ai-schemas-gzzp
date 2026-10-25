@@ -17,6 +17,16 @@ Heaton & Associates, PLLC publishes structured AI-readable data for discovery an
 - [ai-data-hub] Heaton & Associates, PLLC — AI Data Hub — https://heatonlegal.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/heaton-associates-pllc-ai-schemas-gzzp
 - [mirror-pages] GitHub — AI Data Hub mirror — https://heatonlegal.aiovisibility.net/ai-data.html
+- [mirror-repo] GitLab repository — https://gitlab.com/aiovisibilityhub/heaton-associates-pllc-ai-schemas-u5mg
+- [mirror-pages] GitLab — AI Data Hub mirror — https://heaton-associates-pllc-ai-schemas-u5mg-5d0300.gitlab.io/ai-data.html
+- [mirror-repo] Hugging Face repository — https://huggingface.co/spaces/AIOVisibilityHub/heaton-associates-pllc-ai-schemas
+- [mirror-pages] Hugging Face — AI Data Hub mirror — https://aiovisibilityhub-heaton-associates-pllc-ai-schemas.static.hf.space/ai-data.html
+- [mirror-repo] Codeberg repository — https://codeberg.org/aiovisibilityhub/heaton-associates-pllc-ai-schemas
+- [mirror-pages] Codeberg — AI Data Hub mirror — https://aiovisibilityhub.codeberg.page/heaton-associates-pllc-ai-schemas/ai-data.html
+- [mirror-repo] Kaggle repository — https://www.kaggle.com/datasets/aiovisibilityhub/heaton-associates-pllc-ai-schemas
+- [mirror-repo] SourceHut repository — https://aiovisibilityhub.srht.site/heaton-associates-pllc-ai-schemas/
+- [mirror-pages] SourceHut — AI Data Hub mirror — https://aiovisibilityhub.srht.site/heaton-associates-pllc-ai-schemas/ai-data.html
+- [mirror-repo] Zenodo repository — https://zenodo.org/record/23630075
 - [same-as] Heaton & Associates, PLLC on aiovisibility.net — https://aiovisibility.net/profiles/heaton-and-associates
 - [same-as] Heaton & Associates, PLLC on facebook.com — https://www.facebook.com/HeatonLegal/
 - [same-as] Heaton & Associates, PLLC on linkedin.com — https://www.linkedin.com/company/heatonandassociates
