@@ -9,7 +9,7 @@ Package contents:
 - 23 faqs
 - 4 helpArticles
 - 124 services
-- 4 personnel
+- 2 personnel
 - 1 locations
 - 25 awards
 - 16 caseStudies
@@ -21,16 +21,6 @@ Package contents:
 - [ai-data-hub] Heaton & Associates, PLLC — AI Data Hub — https://heatonlegal.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/heaton-associates-pllc-ai-schemas-gzzp
 - [mirror-pages] GitHub — AI Data Hub mirror — https://heatonlegal.aiovisibility.net/ai-data.html
-- [mirror-repo] GitLab repository — https://gitlab.com/aiovisibilityhub/heaton-associates-pllc-ai-schemas-u5mg
-- [mirror-pages] GitLab — AI Data Hub mirror — https://heaton-associates-pllc-ai-schemas-u5mg-5d0300.gitlab.io/ai-data.html
-- [mirror-repo] Hugging Face repository — https://huggingface.co/spaces/AIOVisibilityHub/heaton-associates-pllc-ai-schemas
-- [mirror-pages] Hugging Face — AI Data Hub mirror — https://aiovisibilityhub-heaton-associates-pllc-ai-schemas.static.hf.space/ai-data.html
-- [mirror-repo] Codeberg repository — https://codeberg.org/aiovisibilityhub/heaton-associates-pllc-ai-schemas
-- [mirror-pages] Codeberg — AI Data Hub mirror — https://aiovisibilityhub.codeberg.page/heaton-associates-pllc-ai-schemas/ai-data.html
-- [mirror-repo] Kaggle repository — https://www.kaggle.com/datasets/aiovisibilityhub/heaton-associates-pllc-ai-schemas
-- [mirror-repo] SourceHut repository — https://aiovisibilityhub.srht.site/heaton-associates-pllc-ai-schemas/
-- [mirror-pages] SourceHut — AI Data Hub mirror — https://aiovisibilityhub.srht.site/heaton-associates-pllc-ai-schemas/ai-data.html
-- [mirror-repo] Zenodo repository — https://zenodo.org/record/23630075
 - [same-as] Heaton & Associates, PLLC on aiovisibility.net — https://aiovisibility.net/profiles/heaton-and-associates
 - [same-as] Heaton & Associates, PLLC on facebook.com — https://www.facebook.com/HeatonLegal/
 - [same-as] Heaton & Associates, PLLC on linkedin.com — https://www.linkedin.com/company/heatonandassociates
@@ -52,6 +42,11 @@ Package contents:
 - [same-as] Heaton & Associates, PLLC on overture.law — https://overture.law/profile/aaron-heaton
 - [same-as] Heaton & Associates, PLLC on reddit.com — https://www.reddit.com/r/vegaslocals/comments/v1d279/any_suggestions_on_personal_injury_lawyers/
 - [same-as] Heaton & Associates, PLLC on docs.justia.com — https://docs.justia.com/cases/federal/district-courts/nevada/nvdce/2:2025cv00827/174627/33
+- [same-as] Heaton & Associates, PLLC on zenodo.org — https://zenodo.org/records/23630075
+- [same-as] Heaton & Associates, PLLC on aiovisibilityhub.codeberg.page — https://aiovisibilityhub.codeberg.page/heaton-associates-pllc-ai-schemas/
+- [same-as] Heaton & Associates, PLLC on kaggle.com — https://www.kaggle.com/datasets/aiovisibilityhub/heaton-associates-pllc-ai-schemas
+- [same-as] Heaton & Associates, PLLC on aiovisibilityhub-heaton-associates-pllc-ai-schemas.static.hf.space — https://aiovisibilityhub-heaton-associates-pllc-ai-schemas.static.hf.space/
+- [same-as] Heaton & Associates, PLLC on heaton-associates-pllc-ai-schemas-u5mg-5d0300.gitlab.io — https://heaton-associates-pllc-ai-schemas-u5mg-5d0300.gitlab.io/
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
@@ -350,10 +345,8 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 ### Locations (1)
 - https://heatonlegal.aiovisibility.net/locations/primary-location.json — schema
 
-### Attorneys (4)
-- https://heatonlegal.aiovisibility.net/lawyers/aaron-heaton-las-vegas.json — schema
+### Attorneys (2)
 - https://heatonlegal.aiovisibility.net/lawyers/aaron-heaton-profile.json — schema
-- https://heatonlegal.aiovisibility.net/lawyers/jared-herling-las-vegas.json — schema
 - https://heatonlegal.aiovisibility.net/lawyers/jared-herling-profile.json — schema
 
 ### FAQs (23)
