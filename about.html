@@ -21,9 +21,17 @@ ul{padding-left:1.2rem}
 .card{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem;margin:.8rem 0}
 .svc-index{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem 1.2rem;margin:1.5rem 0;scroll-margin-top:1rem}
 .svc-index h2{margin:0 0 .7rem;font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;color:#555}
-.svc-index ul{list-style:none;display:flex;flex-wrap:wrap;gap:.4rem;margin:0;padding:0}
-.svc-index li a{display:inline-block;padding:.3rem .7rem;border:1px solid #d5dbe1;border-radius:999px;background:#fff;font-size:.85rem;font-weight:600;text-decoration:none}
-.svc-index li a:hover{border-color:#1a5276;background:#eef4f8}
+.svc-index .svc-cols{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:1rem 1.6rem}
+.svc-index .svc-bubbles{display:flex;flex-wrap:wrap;gap:.55rem;list-style:none;margin:0;padding:0}
+.svc-bubbles li{margin:0;max-width:100%}
+.svc-index .svc-bubbles a{display:block;margin:0;border:1px solid currentColor;border-radius:999px;padding:.35rem .85rem;font-size:.85rem;line-height:1.5;overflow-wrap:anywhere;text-decoration:none}
+.svc-index .svc-bubbles a:hover,.svc-index .svc-bubbles a:focus-visible{text-decoration:underline}
+.svc-group .cat-link{font-size:.85rem;font-weight:700;color:#1a5276;text-decoration:none}
+.svc-group .cat-link:hover{text-decoration:underline}
+.svc-group ul{list-style:none;margin:.3rem 0 0;padding:0}
+.svc-group li{margin:.12rem 0}
+.svc-group li a{font-size:.82rem;color:#1a5276;text-decoration:none}
+.svc-group li a:hover{text-decoration:underline}
 .svc-index .n{font-weight:400;color:#666}
 .cat{margin:2.6rem 0 0;scroll-margin-top:1rem}
 .cat h2{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;margin:0 0 .5rem;padding-bottom:.35rem;border-bottom:2px solid #222;font-size:1.4rem}
@@ -55,7 +63,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "name": "About Heaton &amp; Associates, PLLC",
   "description": "Heaton &amp; Associates, PLLC: what we do, services offered, areas served, attorneys, credentials, and how to get started.",
   "inLanguage": "en-US",
-  "dateModified": "2026-10-04",
+  "dateModified": "2026-10-25",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Heaton & Associates, PLLC",
@@ -253,7 +261,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="About Heaton &amp;amp; Associates, PLLC" />
 <meta name="twitter:description" content="Heaton &amp;amp; Associates, PLLC: what we do, services offered, areas served, attorneys, credentials, and how to get started." />
-<meta name="dcterms.modified" content="2026-10-04" />
+<meta name="dcterms.modified" content="2026-10-25" />
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -263,8 +271,8 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "name": "About Heaton &amp; Associates, PLLC",
   "description": "Heaton &amp; Associates, PLLC: what we do, services offered, areas served, attorneys, credentials, and how to get started.",
   "inLanguage": "en-US",
-  "datePublished": "2026-10-04",
-  "dateModified": "2026-10-04",
+  "datePublished": "2026-10-25",
+  "dateModified": "2026-10-25",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Heaton & Associates, PLLC",
@@ -492,6 +500,31 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "name": "Heaton & Associates, PLLC",
   "@type": "Organization",
   "email": "Info@HeatonLegal.com",
+  "sameAs": [
+    "https://aiovisibility.net/profiles/heaton-and-associates",
+    "https://github.com/AIOVisibilityHub/heaton-associates-pllc-ai-schemas-gzzp",
+    "https://heatonlegal.aiovisibility.net",
+    "https://www.facebook.com/HeatonLegal/",
+    "https://www.linkedin.com/company/heatonandassociates",
+    "https://www.yelp.com/biz/heaton-and-associates-las-vegas-2",
+    "https://www.chamberofcommerce.com/business-directory/nevada/las-vegas/personal-injury-attorney/2012761099-heaton-associates-injury-attorneys",
+    "https://profiles.superlawyers.com/nevada/las-vegas/lawfirm/heaton-and-associates/6a18ea58-5126-436d-b28a-1ad2e8950883.html",
+    "https://www.lawinfo.com/lawfirm/nevada/las-vegas/heaton-and-associates/6a18ea58-5126-436d-b28a-1ad2e8950883.html",
+    "https://lawyers.findlaw.com/profile/view/4977407_1",
+    "https://www.mapquest.com/us/nevada/heaton-associates-388189423",
+    "https://www.allbiz.com/business/heaton-associates_1V-702-850-5000",
+    "https://www.datanyze.com/companies/heaton-associates/369156910",
+    "https://lawleaderboard.com/law-firm/heaton-and-associates-injury-attorneys-las-vegas-nevada/",
+    "https://heaton-associates-injury-attorneys.wheree.com/",
+    "https://wanderboat.ai/local-businesses/united-states/las-vegas/heaton-&-associates/kZD-ludqRL2OgTV8Q4kusA",
+    "https://www.trustima.com/review/heatonlegal.com",
+    "https://moovitapp.com/index/en/public_transit-Heaton_Associates-Las_Vegas_NV-site_318631003-1182",
+    "https://revenuebase.ai/companies/automotive-litigation-firms/united-states/las-vegas",
+    "https://www.avvo.com/attorneys/89149-nv-aaron-heaton-4288886.html",
+    "https://overture.law/profile/aaron-heaton",
+    "https://www.reddit.com/r/vegaslocals/comments/v1d279/any_suggestions_on_personal_injury_lawyers/",
+    "https://docs.justia.com/cases/federal/district-courts/nevada/nvdce/2:2025cv00827/174627/33"
+  ],
   "@context": "https://schema.org",
   "employee": [
     {
