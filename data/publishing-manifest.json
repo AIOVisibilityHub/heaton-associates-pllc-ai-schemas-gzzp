@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-25T00:58:04.161Z",
+  "generatedAt": "2026-10-25T00:58:13.849Z",
   "client": {
     "name": "Heaton & Associates, PLLC",
     "canonicalUrl": "https://heatonlegal.aiovisibility.net",
@@ -173,7 +173,7 @@
   },
   "package": {
     "totalFiles": 337,
-    "totalBytes": 1243028,
+    "totalBytes": 1183907,
     "stats": {
       "faqs": 23,
       "helpArticles": 4,
@@ -1784,57 +1784,57 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 19573,
+        "bytes": 14004,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 77855,
+        "bytes": 72435,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 117645,
+        "bytes": 112063,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 175018,
+        "bytes": 169791,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 17796,
+        "bytes": 12494,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 57782,
+        "bytes": 52480,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 17452,
+        "bytes": 12125,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 36418,
+        "bytes": 31015,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 25538,
+        "bytes": 20276,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 17930,
+        "bytes": 12500,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/unassigned.html",
-        "bytes": 16949,
+        "bytes": 11652,
         "purpose": "LLM-optimized public page"
       }
     ],
