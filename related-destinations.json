@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-25T00:49:01.515Z",
+  "generatedAt": "2026-10-25T00:58:04.152Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -37,7 +37,12 @@
       "https://www.avvo.com/attorneys/89149-nv-aaron-heaton-4288886.html",
       "https://overture.law/profile/aaron-heaton",
       "https://www.reddit.com/r/vegaslocals/comments/v1d279/any_suggestions_on_personal_injury_lawyers/",
-      "https://docs.justia.com/cases/federal/district-courts/nevada/nvdce/2:2025cv00827/174627/33"
+      "https://docs.justia.com/cases/federal/district-courts/nevada/nvdce/2:2025cv00827/174627/33",
+      "https://zenodo.org/records/23630075",
+      "https://aiovisibilityhub.codeberg.page/heaton-associates-pllc-ai-schemas/",
+      "https://www.kaggle.com/datasets/aiovisibilityhub/heaton-associates-pllc-ai-schemas",
+      "https://aiovisibilityhub-heaton-associates-pllc-ai-schemas.static.hf.space/",
+      "https://heaton-associates-pllc-ai-schemas-u5mg-5d0300.gitlab.io/"
     ]
   },
   "related": [
@@ -62,66 +67,6 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "https://heatonlegal.aiovisibility.net/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "gitlab",
-      "label": "GitLab repository",
-      "url": "https://gitlab.com/aiovisibilityhub/heaton-associates-pllc-ai-schemas-u5mg"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "gitlab",
-      "label": "GitLab — AI Data Hub mirror",
-      "url": "https://heaton-associates-pllc-ai-schemas-u5mg-5d0300.gitlab.io/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "huggingface",
-      "label": "Hugging Face repository",
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/heaton-associates-pllc-ai-schemas"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "huggingface",
-      "label": "Hugging Face — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub-heaton-associates-pllc-ai-schemas.static.hf.space/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "codeberg",
-      "label": "Codeberg repository",
-      "url": "https://codeberg.org/aiovisibilityhub/heaton-associates-pllc-ai-schemas"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "codeberg",
-      "label": "Codeberg — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.codeberg.page/heaton-associates-pllc-ai-schemas/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "kaggle",
-      "label": "Kaggle repository",
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/heaton-associates-pllc-ai-schemas"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "sourcehut",
-      "label": "SourceHut repository",
-      "url": "https://aiovisibilityhub.srht.site/heaton-associates-pllc-ai-schemas/"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "sourcehut",
-      "label": "SourceHut — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.srht.site/heaton-associates-pllc-ai-schemas/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "zenodo",
-      "label": "Zenodo repository",
-      "url": "https://zenodo.org/record/23630075"
     },
     {
       "role": "same-as",
@@ -227,6 +172,31 @@
       "role": "same-as",
       "label": "Heaton & Associates, PLLC on docs.justia.com",
       "url": "https://docs.justia.com/cases/federal/district-courts/nevada/nvdce/2:2025cv00827/174627/33"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on zenodo.org",
+      "url": "https://zenodo.org/records/23630075"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on aiovisibilityhub.codeberg.page",
+      "url": "https://aiovisibilityhub.codeberg.page/heaton-associates-pllc-ai-schemas/"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on kaggle.com",
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/heaton-associates-pllc-ai-schemas"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on aiovisibilityhub-heaton-associates-pllc-ai-schemas.static.hf.space",
+      "url": "https://aiovisibilityhub-heaton-associates-pllc-ai-schemas.static.hf.space/"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on heaton-associates-pllc-ai-schemas-u5mg-5d0300.gitlab.io",
+      "url": "https://heaton-associates-pllc-ai-schemas-u5mg-5d0300.gitlab.io/"
     }
   ],
   "destinations": {
@@ -234,30 +204,6 @@
       "url": "https://github.com/AIOVisibilityHub/heaton-associates-pllc-ai-schemas-gzzp",
       "pagesUrl": "https://heatonlegal.aiovisibility.net/",
       "repo": "AIOVisibilityHub/heaton-associates-pllc-ai-schemas-gzzp"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/heaton-associates-pllc-ai-schemas-u5mg",
-      "pagesUrl": "https://heaton-associates-pllc-ai-schemas-u5mg-5d0300.gitlab.io/"
-    },
-    "huggingface": {
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/heaton-associates-pllc-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub-heaton-associates-pllc-ai-schemas.static.hf.space/",
-      "repo": "AIOVisibilityHub/heaton-associates-pllc-ai-schemas"
-    },
-    "codeberg": {
-      "url": "https://codeberg.org/aiovisibilityhub/heaton-associates-pllc-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub.codeberg.page/heaton-associates-pllc-ai-schemas/",
-      "repo": "aiovisibilityhub/heaton-associates-pllc-ai-schemas"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/heaton-associates-pllc-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/heaton-associates-pllc-ai-schemas/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/heaton-associates-pllc-ai-schemas/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/23630075"
     }
   }
 }
