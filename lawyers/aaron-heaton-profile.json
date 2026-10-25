@@ -1,65 +1,111 @@
 {
-  "name": "Aaron Heaton",
-  "@type": "Attorney",
   "@context": "https://schema.org",
+  "@type": "Attorney",
+  "name": "Aaron Heaton",
   "jobTitle": "Team Member",
   "worksFor": {
-    "url": "https://www.HeatonLegal.com",
+    "@type": "Organization",
     "name": "Heaton & Associates, PLLC",
-    "@type": "Organization"
+    "url": "https://www.HeatonLegal.com"
   },
+  "description": "As the founding attorney at Heaton & Associates, Aaron placed an early emphasis on empowering clients through education. To that end, Aaron insists on being deeply involved in the details of each case in order to more effectively communicate with his clients. This approach invites clients to take part in critical decisions, granting them ownership of their claims and continual insight into the claims process. Aaron believes collaboration and respect open more doors than conflict, a philosophy that has earned him strong relationships nationwide. His reputation translates to credibility among his peers, and better outcomes for his clients, whether through negotiation or trial. Both in and out of court, Aaron has successfully resolved catastrophic injury claims involving amputations, spinal reconstruction, and traumatic brain injuries, while also applying the same attention and expertise to those with less severe injuries. Outside the office, Aaron is an engaged husband and father of four. He enjoys youth sports, chess, NBA basketball, and exploring national parks with his family.",
   "telephone": "(702) 850-5000",
   "areaServed": [
     {
-      "name": "Las Vegas",
-      "@type": "City"
+      "@type": "City",
+      "name": "Las Vegas"
     },
     {
-      "name": "State of Nevada",
-      "@type": "City"
+      "@type": "City",
+      "name": "Henderson"
     },
     {
-      "name": "Las Vegas Nevada",
-      "@type": "City"
-    }
-  ],
-  "knowsAbout": [
-    "Personal Injury Law",
-    "Medical Malpractice",
-    "Motor Vehicle Collisions",
-    "Truck Accidents",
-    "Motorcycle Accidents",
-    "Pedestrian Accidents",
-    "Catastrophic Injury",
-    "Traumatic Brain Injury",
-    "Spinal Cord Injury",
-    "Amputation Injury",
-    "Surgical Errors",
-    "Birth Injuries",
-    "Sexual Assault",
-    "Premises Liability",
-    "Product Liability",
-    "Uninsured/Underinsured Motorist Claims",
-    "Rental Car Accidents",
-    "Commercial Vehicle Accidents",
-    "Drunk Driving Accidents",
-    "Wrongful Death",
-    "Dog Attack",
-    "Fall Injuries",
-    "Dental Malpractice",
-    "Assault and Battery",
-    "Civil Sexual Assault",
-    "Defamation",
-    "Food Poisoning",
-    "Elevator / Escalator Injuries",
-    "Boating Accidents",
-    "Excessive or Negligent Security"
-  ],
-  "description": "As the founding attorney at Heaton & Associates, Aaron placed an early emphasis on empowering clients through education. To that end, Aaron insists on being deeply involved in the details of each case in order to more effectively communicate with his clients. This approach invites clients to take part in critical decisions, granting them ownership of their claims and continual insight into the claims process. Aaron believes collaboration and respect open more doors than conflict, a philosophy that has earned him strong relationships nationwide. His reputation translates to credibility among his peers, and better outcomes for his clients, whether through negotiation or trial. Both in and out of court, Aaron has successfully resolved catastrophic injury claims involving amputations, spinal reconstruction, and traumatic brain injuries, while also applying the same attention and expertise to those with less severe injuries. Outside the office, Aaron is an engaged husband and father of four. He enjoys youth sports, chess, NBA basketball, and exploring national parks with his family.",
-  "hasCredential": [
+      "@type": "City",
+      "name": "North Las Vegas"
+    },
     {
-      "@type": "EducationalOccupationalCredential",
-      "credentialCategory": "License #11595"
+      "@type": "City",
+      "name": "Boulder City"
+    },
+    {
+      "@type": "City",
+      "name": "Mesquite"
+    },
+    {
+      "@type": "City",
+      "name": "Overton"
+    },
+    {
+      "@type": "City",
+      "name": "Logandale"
+    },
+    {
+      "@type": "City",
+      "name": "Pahrump"
+    },
+    {
+      "@type": "City",
+      "name": "Indian Springs"
+    },
+    {
+      "@type": "City",
+      "name": "Beatty"
+    },
+    {
+      "@type": "City",
+      "name": "Goldfield"
+    },
+    {
+      "@type": "City",
+      "name": "Tonopah"
+    },
+    {
+      "@type": "City",
+      "name": "Laughlin"
+    },
+    {
+      "@type": "City",
+      "name": "Searchlight"
+    },
+    {
+      "@type": "City",
+      "name": "Jean"
+    },
+    {
+      "@type": "City",
+      "name": "Primm"
+    },
+    {
+      "@type": "City",
+      "name": "Paradise"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Enterprise"
+    },
+    {
+      "@type": "City",
+      "name": "Summerlin"
+    },
+    {
+      "@type": "City",
+      "name": "Sunrise Manor"
+    },
+    {
+      "@type": "City",
+      "name": "Winchester"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Clark County"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Nye County"
     }
   ]
 }
