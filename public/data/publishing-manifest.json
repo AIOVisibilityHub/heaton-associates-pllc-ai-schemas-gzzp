@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:40:47.004Z",
+  "generatedAt": "2026-10-25T00:46:00.653Z",
   "client": {
     "name": "Heaton & Associates, PLLC",
     "canonicalUrl": "https://heatonlegal.aiovisibility.net",
@@ -173,23 +173,23 @@
   },
   "package": {
     "totalFiles": 339,
-    "totalBytes": 1111654,
+    "totalBytes": 1221547,
     "stats": {
-      "qna": 0,
       "faqs": 23,
-      "press": 0,
-      "total": 314,
-      "awards": 25,
-      "reviews": 115,
-      "products": 0,
-      "research": 0,
+      "helpArticles": 4,
       "services": 124,
       "webpages": 0,
-      "locations": 1,
       "personnel": 4,
+      "products": 0,
+      "locations": 1,
+      "awards": 25,
       "caseStudies": 16,
-      "helpArticles": 4,
-      "organization": 1
+      "organization": 1,
+      "press": 0,
+      "reviews": 115,
+      "qna": 0,
+      "research": 0,
+      "total": 314
     }
   },
   "entrypoints": {
@@ -984,11 +984,6 @@
         "path": "help/predatory-claims-practices.json",
         "bytes": 1840,
         "purpose": "schema"
-      },
-      {
-        "path": "help/publishing-plan.json",
-        "bytes": 1625,
-        "purpose": "schema"
       }
     ],
     "locations": [
@@ -1210,7 +1205,7 @@
     "organization": [
       {
         "path": "organization/heaton-associates-pllc-organization.json",
-        "bytes": 2609,
+        "bytes": 4386,
         "purpose": "schema"
       }
     ],
@@ -1799,52 +1794,57 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 14004,
+        "bytes": 19573,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 54513,
+        "bytes": 62406,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 106837,
+        "bytes": 117645,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 169217,
+        "bytes": 175018,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 11920,
+        "bytes": 17796,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 51906,
+        "bytes": 57782,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 11138,
+        "bytes": 17452,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 30441,
+        "bytes": 36418,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 25479,
+        "bytes": 31315,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 11731,
+        "bytes": 17930,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles/unassigned.html",
+        "bytes": 16949,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -1856,7 +1856,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 5325,
+        "bytes": 8217,
         "purpose": "LLM hint"
       },
       {
@@ -1876,42 +1876,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1645,
+        "bytes": 7641,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 121791,
+        "bytes": 127839,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 36902,
+        "bytes": 39812,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 36902,
+        "bytes": 39812,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 5369,
+        "bytes": 8261,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 36660,
+        "bytes": 39569,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 35215,
+        "bytes": 35214,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1122,
+        "bytes": 1209,
         "purpose": "Standard sitemap"
       }
     ]
