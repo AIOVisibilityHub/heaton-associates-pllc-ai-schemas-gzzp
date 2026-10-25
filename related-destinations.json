@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:40:47.001Z",
+  "generatedAt": "2026-10-25T00:46:00.646Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -13,7 +13,32 @@
     "name": "Heaton & Associates, PLLC",
     "canonicalUrl": "https://heatonlegal.aiovisibility.net",
     "primaryWebsiteUrl": "https://www.HeatonLegal.com",
-    "aiDataHub": "https://heatonlegal.aiovisibility.net/ai-data.html"
+    "aiDataHub": "https://heatonlegal.aiovisibility.net/ai-data.html",
+    "sameAs": [
+      "https://aiovisibility.net/profiles/heaton-and-associates",
+      "https://github.com/AIOVisibilityHub/heaton-associates-pllc-ai-schemas-gzzp",
+      "https://heatonlegal.aiovisibility.net",
+      "https://www.facebook.com/HeatonLegal/",
+      "https://www.linkedin.com/company/heatonandassociates",
+      "https://www.yelp.com/biz/heaton-and-associates-las-vegas-2",
+      "https://www.chamberofcommerce.com/business-directory/nevada/las-vegas/personal-injury-attorney/2012761099-heaton-associates-injury-attorneys",
+      "https://profiles.superlawyers.com/nevada/las-vegas/lawfirm/heaton-and-associates/6a18ea58-5126-436d-b28a-1ad2e8950883.html",
+      "https://www.lawinfo.com/lawfirm/nevada/las-vegas/heaton-and-associates/6a18ea58-5126-436d-b28a-1ad2e8950883.html",
+      "https://lawyers.findlaw.com/profile/view/4977407_1",
+      "https://www.mapquest.com/us/nevada/heaton-associates-388189423",
+      "https://www.allbiz.com/business/heaton-associates_1V-702-850-5000",
+      "https://www.datanyze.com/companies/heaton-associates/369156910",
+      "https://lawleaderboard.com/law-firm/heaton-and-associates-injury-attorneys-las-vegas-nevada/",
+      "https://heaton-associates-injury-attorneys.wheree.com/",
+      "https://wanderboat.ai/local-businesses/united-states/las-vegas/heaton-&-associates/kZD-ludqRL2OgTV8Q4kusA",
+      "https://www.trustima.com/review/heatonlegal.com",
+      "https://moovitapp.com/index/en/public_transit-Heaton_Associates-Las_Vegas_NV-site_318631003-1182",
+      "https://revenuebase.ai/companies/automotive-litigation-firms/united-states/las-vegas",
+      "https://www.avvo.com/attorneys/89149-nv-aaron-heaton-4288886.html",
+      "https://overture.law/profile/aaron-heaton",
+      "https://www.reddit.com/r/vegaslocals/comments/v1d279/any_suggestions_on_personal_injury_lawyers/",
+      "https://docs.justia.com/cases/federal/district-courts/nevada/nvdce/2:2025cv00827/174627/33"
+    ]
   },
   "related": [
     {
@@ -37,6 +62,111 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "https://heatonlegal.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on aiovisibility.net",
+      "url": "https://aiovisibility.net/profiles/heaton-and-associates"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on facebook.com",
+      "url": "https://www.facebook.com/HeatonLegal/"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on linkedin.com",
+      "url": "https://www.linkedin.com/company/heatonandassociates"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on yelp.com",
+      "url": "https://www.yelp.com/biz/heaton-and-associates-las-vegas-2"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on chamberofcommerce.com",
+      "url": "https://www.chamberofcommerce.com/business-directory/nevada/las-vegas/personal-injury-attorney/2012761099-heaton-associates-injury-attorneys"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on profiles.superlawyers.com",
+      "url": "https://profiles.superlawyers.com/nevada/las-vegas/lawfirm/heaton-and-associates/6a18ea58-5126-436d-b28a-1ad2e8950883.html"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on lawinfo.com",
+      "url": "https://www.lawinfo.com/lawfirm/nevada/las-vegas/heaton-and-associates/6a18ea58-5126-436d-b28a-1ad2e8950883.html"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on lawyers.findlaw.com",
+      "url": "https://lawyers.findlaw.com/profile/view/4977407_1"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on mapquest.com",
+      "url": "https://www.mapquest.com/us/nevada/heaton-associates-388189423"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on allbiz.com",
+      "url": "https://www.allbiz.com/business/heaton-associates_1V-702-850-5000"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on datanyze.com",
+      "url": "https://www.datanyze.com/companies/heaton-associates/369156910"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on lawleaderboard.com",
+      "url": "https://lawleaderboard.com/law-firm/heaton-and-associates-injury-attorneys-las-vegas-nevada/"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on heaton-associates-injury-attorneys.wheree.com",
+      "url": "https://heaton-associates-injury-attorneys.wheree.com/"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on wanderboat.ai",
+      "url": "https://wanderboat.ai/local-businesses/united-states/las-vegas/heaton-&-associates/kZD-ludqRL2OgTV8Q4kusA"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on trustima.com",
+      "url": "https://www.trustima.com/review/heatonlegal.com"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on moovitapp.com",
+      "url": "https://moovitapp.com/index/en/public_transit-Heaton_Associates-Las_Vegas_NV-site_318631003-1182"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on revenuebase.ai",
+      "url": "https://revenuebase.ai/companies/automotive-litigation-firms/united-states/las-vegas"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on avvo.com",
+      "url": "https://www.avvo.com/attorneys/89149-nv-aaron-heaton-4288886.html"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on overture.law",
+      "url": "https://overture.law/profile/aaron-heaton"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on reddit.com",
+      "url": "https://www.reddit.com/r/vegaslocals/comments/v1d279/any_suggestions_on_personal_injury_lawyers/"
+    },
+    {
+      "role": "same-as",
+      "label": "Heaton & Associates, PLLC on docs.justia.com",
+      "url": "https://docs.justia.com/cases/federal/district-courts/nevada/nvdce/2:2025cv00827/174627/33"
     }
   ],
   "destinations": {
